@@ -1,0 +1,86 @@
+2023-05-05 19:25:45.498 [info] Extension host with pid 1975 started
+2023-05-05 19:25:45.499 [info] Skipping acquiring lock for /home/alex/.config/Code - OSS/User/workspaceStorage/0be8627cbc0098eb764a343a263ca93e.
+2023-05-05 19:25:45.637 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-05-05 19:25:45.638 [info] ExtensionService#_doActivateExtension redhat.java, startup: false, activationEvent: 'onLanguage:java'
+2023-05-05 19:25:45.638 [info] ExtensionService#_doActivateExtension vscjava.vscode-java-debug, startup: false, activationEvent: 'onLanguage:java'
+2023-05-05 19:25:45.845 [warning] [redhat.java] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[java]', provide the URI of a resource or 'null' for any resource.
+2023-05-05 19:25:45.924 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-05-05 19:25:45.924 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+2023-05-05 19:25:46.118 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-05-05 19:25:46.118 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-05-05 19:25:46.314 [warning] [redhat.java] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[java]', provide the URI of a resource or 'null' for any resource.
+2023-05-05 19:25:46.422 [info] Eager extensions activated
+2023-05-05 19:25:46.467 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-05-05 19:25:46.468 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-05-05 19:25:53.412 [error] [redhat.java] provider FAILED
+2023-05-05 19:25:53.412 [error] Error: Internal error.
+	at /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/dist/extension.js:2:1071113
+	at ie (/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/dist/extension.js:2:1071407)
+	at /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/dist/extension.js:2:1066191
+	at Immediate.<anonymous> (/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/dist/extension.js:2:1066211)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-05 19:29:40.309 [error] [redhat.java] provider FAILED
+2023-05-05 19:29:40.309 [error] Error: Internal error.
+	at /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/dist/extension.js:2:1071113
+	at ie (/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/dist/extension.js:2:1071407)
+	at /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/dist/extension.js:2:1066191
+	at Immediate.<anonymous> (/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/dist/extension.js:2:1066211)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-05 19:29:45.138 [error] [redhat.java] provider FAILED
+2023-05-05 19:29:45.138 [error] Error: Internal error.
+	at /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/dist/extension.js:2:1071113
+	at ie (/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/dist/extension.js:2:1071407)
+	at /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/dist/extension.js:2:1066191
+	at Immediate.<anonymous> (/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/dist/extension.js:2:1066211)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-05 19:33:37.066 [info] Extension host terminating: received terminate message from renderer
+2023-05-05 19:33:37.076 [error] Canceled: Canceled
+	at new l (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:98:105190)
+	at c.O (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:11692)
+	at G.<computed>.Q.charCodeAt.G.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:8967)
+	at m.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:98:125211)
+	at m.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:98:124587)
+	at L.registerCommand.description (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:98:123880)
+	at m.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:98:125797)
+	at m.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:98:124687)
+	at m.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:98:124587)
+	at Object.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:114:23801)
+	at D (/usr/lib/code/extensions/git/dist/main.js:2:1467156)
+	at E.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at n.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at Object.m [as dispose] (/usr/lib/code/extensions/git/dist/main.js:2:1481885)
+	at /usr/lib/code/extensions/git/dist/main.js:2:1485952
+	at Array.forEach (<anonymous>)
+	at g.dispose (/usr/lib/code/extensions/git/dist/main.js:2:1485938)
+	at t.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:12398)
+	at t.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:12533)
+	at t.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1469286)
+	at t.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:12533)
+	at C (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:10:12084)
+	at E.Y (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:110:11147)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:110:9131
+	at Array.map (<anonymous>)
+	at E.R (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:110:9118)
+	at E.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:110:9389)
+	at d.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:114:1544)
+	at p (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:124:18690)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:124:16600
+	at E.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at n.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14916)
+	at s.E (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:18982)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:16970
+	at E.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at n.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at d.acceptChunk (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:12647)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:11934
+	at Socket.s (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:22469)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Readable.push (node:internal/streams/readable:228:10)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-05-05 19:33:37.078 [info] Extension host with pid 1975 exiting with code 0

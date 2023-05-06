@@ -1,0 +1,19 @@
+2023-05-05 19:25:48.009 [info] [perf] Render performance baseline is 28ms
+2023-05-05 19:25:53.416 [error] Internal error.: Error: Internal error.
+	at /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/dist/extension.js:2:1071113
+	at ie (/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/dist/extension.js:2:1071407)
+	at /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/dist/extension.js:2:1066191
+	at Immediate.<anonymous> (/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/dist/extension.js:2:1066211)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-05 19:29:40.311 [error] Internal error.: Error: Internal error.
+	at /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/dist/extension.js:2:1071113
+	at ie (/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/dist/extension.js:2:1071407)
+	at /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/dist/extension.js:2:1066191
+	at Immediate.<anonymous> (/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/dist/extension.js:2:1066211)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-05 19:29:45.142 [error] Internal error.: Error: Internal error.
+	at /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/dist/extension.js:2:1071113
+	at ie (/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/dist/extension.js:2:1071407)
+	at /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/dist/extension.js:2:1066191
+	at Immediate.<anonymous> (/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/dist/extension.js:2:1066211)
+	at process.processImmediate (node:internal/timers:466:21)

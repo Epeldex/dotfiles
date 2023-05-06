@@ -1,0 +1,5 @@
+INDEX VERSION 1.133+/home/alex/.config/Code - OSS/User/workspaceStorage/0ebdb22f5b5befd12508cc0eae6a1214/redhat.java/jdt_ws/.metadata/.plugins/org.eclipse.jdt.core
+3842426239.index
+2540607589.index
+893773505.index
+1865797976.index

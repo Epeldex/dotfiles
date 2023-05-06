@@ -1,0 +1,58 @@
+2023-05-05 13:28:11.834 [info] Log level: Info
+2023-05-05 13:28:11.834 [info] Validating found git in: "git"
+2023-05-05 13:28:11.834 [info] Using git "2.40.1" from "git"
+2023-05-05 13:28:11.834 [info] > git rev-parse --show-toplevel [5ms]
+2023-05-05 13:28:11.834 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-05-05 13:28:11.834 [info] > git rev-parse --show-toplevel [1ms]
+2023-05-05 13:28:11.834 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-05-05 13:28:11.834 [info] > git rev-parse --show-toplevel [12ms]
+2023-05-05 13:28:11.834 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-05-05 13:28:11.917 [info] > git rev-parse --show-toplevel [1ms]
+2023-05-05 13:28:11.917 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-05-05 13:28:11.962 [info] > git rev-parse --show-toplevel [1ms]
+2023-05-05 13:28:11.962 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-05-05 13:28:37.012 [info] Log level: Info
+2023-05-05 13:28:37.012 [info] Validating found git in: "git"
+2023-05-05 13:28:37.012 [info] Using git "2.40.1" from "git"
+2023-05-05 13:28:37.012 [info] > git rev-parse --show-toplevel [8ms]
+2023-05-05 13:28:37.042 [info] > git rev-parse --git-dir --git-common-dir [20ms]
+2023-05-05 13:28:37.056 [info] Open repository: /home/alex/DAM/RetoFinal/PokeCatch
+2023-05-05 13:28:37.087 [info] > git rev-parse --show-toplevel [18ms]
+2023-05-05 13:28:37.103 [info] > git config --get commit.template [24ms]
+2023-05-05 13:28:37.103 [info] > git rev-parse --show-toplevel [6ms]
+2023-05-05 13:28:37.124 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-05-05 13:28:37.137 [info] > git rev-parse --show-toplevel [24ms]
+2023-05-05 13:28:37.148 [info] > git status -z -uall [13ms]
+2023-05-05 13:28:37.180 [info] > git rev-parse --show-toplevel [35ms]
+2023-05-05 13:28:37.196 [info] > git config --get commit.template [15ms]
+2023-05-05 13:28:37.197 [info] > git rev-parse --show-toplevel [5ms]
+2023-05-05 13:28:37.209 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-05-05 13:28:37.221 [info] > git status -z -uall [2ms]
+2023-05-05 13:28:37.563 [info] > git show --textconv :src/view/ProfessorView.java [13ms]
+2023-05-05 13:28:37.563 [info] > git ls-files --stage -- /home/alex/DAM/RetoFinal/PokeCatch/src/view/ProfessorView.java [2ms]
+2023-05-05 13:28:37.578 [info] > git cat-file -s 0f7093a04742fe42fee9f905038b08463635f8df [3ms]
+2023-05-05 13:28:37.600 [info] > git check-ignore -v -z --stdin [2ms]
+2023-05-05 13:28:42.798 [info] > git check-ignore -v -z --stdin [1ms]
+2023-05-05 13:28:43.428 [info] > git show --textconv :src/view/LoginView.java [6ms]
+2023-05-05 13:28:43.429 [info] > git ls-files --stage -- /home/alex/DAM/RetoFinal/PokeCatch/src/view/LoginView.java [2ms]
+2023-05-05 13:28:43.436 [info] > git cat-file -s 47f22930be1dd9a6822adc173fef93d1cb6fd6b2 [1ms]
+2023-05-05 13:40:35.045 [info] > git show --textconv :src/main/Main.java [4ms]
+2023-05-05 13:40:35.046 [info] > git ls-files --stage -- /home/alex/DAM/RetoFinal/PokeCatch/src/main/Main.java [1ms]
+2023-05-05 13:40:35.051 [info] > git cat-file -s d6bf1de68431b8ff50a054f5670f69c60e6a0704 [1ms]
+2023-05-05 13:57:04.213 [info] > git check-ignore -v -z --stdin [2ms]
+2023-05-05 14:02:59.804 [info] > git config --get commit.template [9ms]
+2023-05-05 14:02:59.804 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-05-05 14:02:59.810 [info] > git status -z -uall [1ms]
+2023-05-05 14:03:50.447 [info] > git show --textconv :src/view/TrainerView.java [5ms]
+2023-05-05 14:03:50.447 [info] > git ls-files --stage -- /home/alex/DAM/RetoFinal/PokeCatch/src/view/TrainerView.java [1ms]
+2023-05-05 14:03:50.452 [info] > git cat-file -s 6d7733c184923d2a2fea57bd1984d4dbdf773fa0 [1ms]
+2023-05-05 14:03:50.771 [info] > git check-ignore -v -z --stdin [1ms]
+2023-05-05 14:04:04.084 [info] > git config --get commit.template [6ms]
+2023-05-05 14:04:04.085 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-05-05 14:04:04.089 [info] > git status -z -uall [1ms]
+2023-05-05 14:06:22.644 [info] > git config --get commit.template [9ms]
+2023-05-05 14:06:22.645 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-05-05 14:06:22.653 [info] > git status -z -uall [1ms]
+2023-05-05 14:07:32.495 [info] > git config --get commit.template [1ms]
+2023-05-05 14:07:32.502 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-05-05 14:07:32.509 [info] > git status -z -uall [1ms]

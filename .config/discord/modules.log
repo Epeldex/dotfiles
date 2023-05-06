@@ -1,0 +1,1172 @@
+2023-04-30T13:13:10.940Z [Modules] Modules initializing
+2023-04-30T13:13:10.941Z [Modules] Distribution: remote
+2023-04-30T13:13:10.941Z [Modules] Host updates: enabled
+2023-04-30T13:13:10.941Z [Modules] Module updates: enabled
+2023-04-30T13:13:10.941Z [Modules] Module install path: /home/alex/.config/discord/0.0.27/modules
+2023-04-30T13:13:10.941Z [Modules] Module installed file path: /home/alex/.config/discord/0.0.27/modules/installed.json
+2023-04-30T13:13:10.941Z [Modules] Module download path: /home/alex/.config/discord/0.0.27/modules/pending
+2023-04-30T13:13:11.930Z [Modules] Bootstrapping...
+2023-04-30T13:13:11.931Z [Modules] Installing discord_desktop_core@0 from /opt/discord/resources/bootstrap/discord_desktop_core.zip
+2023-04-30T13:13:11.932Z [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_desktop_core.zip'
+2023-04-30T13:13:11.932Z [Modules] Installing discord_erlpack@0 from /opt/discord/resources/bootstrap/discord_erlpack.zip
+2023-04-30T13:13:11.933Z [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_erlpack.zip'
+2023-04-30T13:13:11.933Z [Modules] Installing discord_spellcheck@0 from /opt/discord/resources/bootstrap/discord_spellcheck.zip
+2023-04-30T13:13:11.933Z [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_spellcheck.zip'
+2023-04-30T13:13:11.934Z [Modules] Installing discord_utils@0 from /opt/discord/resources/bootstrap/discord_utils.zip
+2023-04-30T13:13:11.934Z [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_utils.zip'
+2023-04-30T13:13:11.934Z [Modules] Installing discord_voice@0 from /opt/discord/resources/bootstrap/discord_voice.zip
+2023-04-30T13:13:11.935Z [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_voice.zip'
+2023-04-30T13:13:11.935Z [Modules] Finished module installations. [success: 0] [failure: 5]
+2023-04-30T13:13:11.935Z [Modules] Checking for host updates.
+2023-04-30T13:13:12.221Z [Modules] Host is up to date.
+2023-04-30T13:13:12.221Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-30T13:13:12.275Z [Modules] Module update available: discord_desktop_core@1 [installed: 0]
+2023-04-30T13:13:12.275Z [Modules] Module update available: discord_erlpack@1 [installed: 0]
+2023-04-30T13:13:12.275Z [Modules] Module update available: discord_spellcheck@1 [installed: 0]
+2023-04-30T13:13:12.275Z [Modules] Module update available: discord_utils@1 [installed: 0]
+2023-04-30T13:13:12.275Z [Modules] Module update available: discord_voice@1 [installed: 0]
+2023-04-30T13:13:12.276Z [Modules] Fetching discord_desktop_core@1 from https://discord.com/api/modules/stable/discord_desktop_core/1
+2023-04-30T13:13:12.276Z [Modules] Streaming discord_desktop_core@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip
+2023-04-30T13:13:12.721Z [Modules] Streaming discord_desktop_core@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 3%
+2023-04-30T13:13:12.733Z [Modules] Streaming discord_desktop_core@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 6%
+2023-04-30T13:13:12.735Z [Modules] Streaming discord_desktop_core@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 7%
+2023-04-30T13:13:12.740Z [Modules] Streaming discord_desktop_core@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 8%
+2023-04-30T13:13:12.743Z [Modules] Streaming discord_desktop_core@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 9%
+2023-04-30T13:13:12.746Z [Modules] Streaming discord_desktop_core@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 13%
+2023-04-30T13:13:12.750Z [Modules] Streaming discord_desktop_core@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 15%
+2023-04-30T13:13:12.753Z [Modules] Streaming discord_desktop_core@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 18%
+2023-04-30T13:13:12.756Z [Modules] Streaming discord_desktop_core@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 21%
+2023-04-30T13:13:12.758Z [Modules] Streaming discord_desktop_core@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 22%
+2023-04-30T13:13:12.759Z [Modules] Streaming discord_desktop_core@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 24%
+2023-04-30T13:13:12.761Z [Modules] Streaming discord_desktop_core@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 28%
+2023-04-30T13:13:12.761Z [Modules] Streaming discord_desktop_core@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 29%
+2023-04-30T13:13:12.764Z [Modules] Streaming discord_desktop_core@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 31%
+2023-04-30T13:13:12.765Z [Modules] Streaming discord_desktop_core@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 35%
+2023-04-30T13:13:12.767Z [Modules] Streaming discord_desktop_core@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 36%
+2023-04-30T13:13:12.767Z [Modules] Streaming discord_desktop_core@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 40%
+2023-04-30T13:13:12.770Z [Modules] Streaming discord_desktop_core@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 42%
+2023-04-30T13:13:12.771Z [Modules] Streaming discord_desktop_core@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 46%
+2023-04-30T13:13:12.771Z [Modules] Streaming discord_desktop_core@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 47%
+2023-04-30T13:13:12.773Z [Modules] Streaming discord_desktop_core@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 52%
+2023-04-30T13:13:12.774Z [Modules] Streaming discord_desktop_core@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 53%
+2023-04-30T13:13:12.776Z [Modules] Streaming discord_desktop_core@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 57%
+2023-04-30T13:13:12.776Z [Modules] Streaming discord_desktop_core@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 59%
+2023-04-30T13:13:12.779Z [Modules] Streaming discord_desktop_core@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 64%
+2023-04-30T13:13:12.779Z [Modules] Streaming discord_desktop_core@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 65%
+2023-04-30T13:13:12.779Z [Modules] Streaming discord_desktop_core@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 68%
+2023-04-30T13:13:12.782Z [Modules] Streaming discord_desktop_core@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 73%
+2023-04-30T13:13:12.782Z [Modules] Streaming discord_desktop_core@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 76%
+2023-04-30T13:13:12.785Z [Modules] Streaming discord_desktop_core@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 81%
+2023-04-30T13:13:12.786Z [Modules] Streaming discord_desktop_core@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 84%
+2023-04-30T13:13:12.788Z [Modules] Streaming discord_desktop_core@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 88%
+2023-04-30T13:13:12.788Z [Modules] Streaming discord_desktop_core@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 90%
+2023-04-30T13:13:12.788Z [Modules] Streaming discord_desktop_core@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 92%
+2023-04-30T13:13:12.791Z [Modules] Streaming discord_desktop_core@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 97%
+2023-04-30T13:13:12.791Z [Modules] Streaming discord_desktop_core@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 98%
+2023-04-30T13:13:12.791Z [Modules] Streaming discord_desktop_core@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 100%
+2023-04-30T13:13:12.792Z [Modules] Fetching discord_erlpack@1 from https://discord.com/api/modules/stable/discord_erlpack/1
+2023-04-30T13:13:12.792Z [Modules] Streaming discord_erlpack@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip
+2023-04-30T13:13:12.958Z [Modules] Streaming discord_erlpack@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 3%
+2023-04-30T13:13:12.958Z [Modules] Streaming discord_erlpack@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 5%
+2023-04-30T13:13:12.960Z [Modules] Streaming discord_erlpack@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 9%
+2023-04-30T13:13:12.961Z [Modules] Streaming discord_erlpack@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 13%
+2023-04-30T13:13:12.963Z [Modules] Streaming discord_erlpack@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 17%
+2023-04-30T13:13:12.964Z [Modules] Streaming discord_erlpack@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 21%
+2023-04-30T13:13:12.966Z [Modules] Streaming discord_erlpack@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 25%
+2023-04-30T13:13:12.967Z [Modules] Streaming discord_erlpack@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 28%
+2023-04-30T13:13:12.970Z [Modules] Streaming discord_erlpack@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 32%
+2023-04-30T13:13:12.970Z [Modules] Streaming discord_erlpack@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 36%
+2023-04-30T13:13:12.972Z [Modules] Streaming discord_erlpack@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 40%
+2023-04-30T13:13:12.973Z [Modules] Streaming discord_erlpack@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 44%
+2023-04-30T13:13:12.976Z [Modules] Streaming discord_erlpack@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 48%
+2023-04-30T13:13:12.976Z [Modules] Streaming discord_erlpack@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 52%
+2023-04-30T13:13:12.979Z [Modules] Streaming discord_erlpack@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 55%
+2023-04-30T13:13:12.979Z [Modules] Streaming discord_erlpack@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 60%
+2023-04-30T13:13:12.982Z [Modules] Streaming discord_erlpack@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 64%
+2023-04-30T13:13:12.982Z [Modules] Streaming discord_erlpack@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 68%
+2023-04-30T13:13:12.986Z [Modules] Streaming discord_erlpack@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 72%
+2023-04-30T13:13:12.987Z [Modules] Streaming discord_erlpack@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 76%
+2023-04-30T13:13:12.989Z [Modules] Streaming discord_erlpack@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 80%
+2023-04-30T13:13:12.989Z [Modules] Streaming discord_erlpack@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 84%
+2023-04-30T13:13:12.992Z [Modules] Streaming discord_erlpack@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 88%
+2023-04-30T13:13:12.992Z [Modules] Streaming discord_erlpack@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 92%
+2023-04-30T13:13:12.996Z [Modules] Streaming discord_erlpack@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 96%
+2023-04-30T13:13:12.996Z [Modules] Streaming discord_erlpack@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 100%
+2023-04-30T13:13:12.997Z [Modules] Fetching discord_spellcheck@1 from https://discord.com/api/modules/stable/discord_spellcheck/1
+2023-04-30T13:13:12.997Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip
+2023-04-30T13:13:13.158Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 1%
+2023-04-30T13:13:13.158Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 2%
+2023-04-30T13:13:13.160Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 3%
+2023-04-30T13:13:13.162Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 4%
+2023-04-30T13:13:13.163Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 5%
+2023-04-30T13:13:13.166Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 6%
+2023-04-30T13:13:13.168Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 7%
+2023-04-30T13:13:13.173Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 8%
+2023-04-30T13:13:13.174Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 9%
+2023-04-30T13:13:13.176Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 10%
+2023-04-30T13:13:13.178Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 11%
+2023-04-30T13:13:13.182Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 12%
+2023-04-30T13:13:13.183Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 13%
+2023-04-30T13:13:13.185Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 14%
+2023-04-30T13:13:13.188Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 15%
+2023-04-30T13:13:13.189Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 16%
+2023-04-30T13:13:13.191Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 17%
+2023-04-30T13:13:13.195Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 18%
+2023-04-30T13:13:13.197Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 19%
+2023-04-30T13:13:13.200Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 20%
+2023-04-30T13:13:13.201Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 21%
+2023-04-30T13:13:13.203Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 22%
+2023-04-30T13:13:13.207Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 23%
+2023-04-30T13:13:13.209Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 24%
+2023-04-30T13:13:13.210Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 25%
+2023-04-30T13:13:13.213Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 26%
+2023-04-30T13:13:13.216Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 27%
+2023-04-30T13:13:13.220Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 28%
+2023-04-30T13:13:13.220Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 29%
+2023-04-30T13:13:13.224Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 30%
+2023-04-30T13:13:13.225Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 31%
+2023-04-30T13:13:13.227Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 32%
+2023-04-30T13:13:13.230Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 33%
+2023-04-30T13:13:13.233Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 34%
+2023-04-30T13:13:13.236Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 35%
+2023-04-30T13:13:13.237Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 36%
+2023-04-30T13:13:13.239Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 37%
+2023-04-30T13:13:13.242Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 38%
+2023-04-30T13:13:13.244Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 39%
+2023-04-30T13:13:13.245Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 40%
+2023-04-30T13:13:13.260Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 41%
+2023-04-30T13:13:13.263Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 42%
+2023-04-30T13:13:13.267Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 43%
+2023-04-30T13:13:13.269Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 44%
+2023-04-30T13:13:13.269Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 45%
+2023-04-30T13:13:13.273Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 46%
+2023-04-30T13:13:13.276Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 47%
+2023-04-30T13:13:13.279Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 48%
+2023-04-30T13:13:13.279Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 49%
+2023-04-30T13:13:13.282Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 50%
+2023-04-30T13:13:13.286Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 51%
+2023-04-30T13:13:13.289Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 52%
+2023-04-30T13:13:13.290Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 53%
+2023-04-30T13:13:13.293Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 54%
+2023-04-30T13:13:13.296Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 55%
+2023-04-30T13:13:13.300Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 56%
+2023-04-30T13:13:13.300Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 57%
+2023-04-30T13:13:13.303Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 58%
+2023-04-30T13:13:13.305Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 59%
+2023-04-30T13:13:13.308Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 60%
+2023-04-30T13:13:13.309Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 61%
+2023-04-30T13:13:13.311Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 62%
+2023-04-30T13:13:13.314Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 63%
+2023-04-30T13:13:13.318Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 64%
+2023-04-30T13:13:13.318Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 65%
+2023-04-30T13:13:13.321Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 66%
+2023-04-30T13:13:13.324Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 67%
+2023-04-30T13:13:13.327Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 68%
+2023-04-30T13:13:13.327Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 69%
+2023-04-30T13:13:13.330Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 70%
+2023-04-30T13:13:13.333Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 71%
+2023-04-30T13:13:13.337Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 72%
+2023-04-30T13:13:13.340Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 73%
+2023-04-30T13:13:13.340Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 74%
+2023-04-30T13:13:13.343Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 75%
+2023-04-30T13:13:13.346Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 76%
+2023-04-30T13:13:13.346Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 77%
+2023-04-30T13:13:13.350Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 78%
+2023-04-30T13:13:13.353Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 79%
+2023-04-30T13:13:13.355Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 80%
+2023-04-30T13:13:13.359Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 82%
+2023-04-30T13:13:13.362Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 83%
+2023-04-30T13:13:13.367Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 84%
+2023-04-30T13:13:13.370Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 85%
+2023-04-30T13:13:13.371Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 86%
+2023-04-30T13:13:13.373Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 87%
+2023-04-30T13:13:13.376Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 88%
+2023-04-30T13:13:13.379Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 89%
+2023-04-30T13:13:13.380Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 90%
+2023-04-30T13:13:13.382Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 91%
+2023-04-30T13:13:13.386Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 92%
+2023-04-30T13:13:13.390Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 93%
+2023-04-30T13:13:13.390Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 94%
+2023-04-30T13:13:13.392Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 95%
+2023-04-30T13:13:13.396Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 96%
+2023-04-30T13:13:13.399Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 97%
+2023-04-30T13:13:13.399Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 98%
+2023-04-30T13:13:13.403Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 99%
+2023-04-30T13:13:13.404Z [Modules] Streaming discord_spellcheck@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 100%
+2023-04-30T13:13:13.406Z [Modules] Fetching discord_utils@1 from https://discord.com/api/modules/stable/discord_utils/1
+2023-04-30T13:13:13.406Z [Modules] Streaming discord_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_utils-1.zip
+2023-04-30T13:13:13.572Z [Modules] Streaming discord_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 2%
+2023-04-30T13:13:13.572Z [Modules] Streaming discord_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 4%
+2023-04-30T13:13:13.574Z [Modules] Streaming discord_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 6%
+2023-04-30T13:13:13.575Z [Modules] Streaming discord_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 9%
+2023-04-30T13:13:13.578Z [Modules] Streaming discord_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 11%
+2023-04-30T13:13:13.579Z [Modules] Streaming discord_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 13%
+2023-04-30T13:13:13.581Z [Modules] Streaming discord_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 15%
+2023-04-30T13:13:13.581Z [Modules] Streaming discord_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 17%
+2023-04-30T13:13:13.584Z [Modules] Streaming discord_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 19%
+2023-04-30T13:13:13.585Z [Modules] Streaming discord_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 22%
+2023-04-30T13:13:13.587Z [Modules] Streaming discord_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 24%
+2023-04-30T13:13:13.587Z [Modules] Streaming discord_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 26%
+2023-04-30T13:13:13.590Z [Modules] Streaming discord_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 29%
+2023-04-30T13:13:13.590Z [Modules] Streaming discord_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 31%
+2023-04-30T13:13:13.592Z [Modules] Streaming discord_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 33%
+2023-04-30T13:13:13.593Z [Modules] Streaming discord_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 35%
+2023-04-30T13:13:13.596Z [Modules] Streaming discord_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 37%
+2023-04-30T13:13:13.596Z [Modules] Streaming discord_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 38%
+2023-04-30T13:13:13.596Z [Modules] Streaming discord_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 40%
+2023-04-30T13:13:13.599Z [Modules] Streaming discord_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 42%
+2023-04-30T13:13:13.599Z [Modules] Streaming discord_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 44%
+2023-04-30T13:13:13.603Z [Modules] Streaming discord_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 46%
+2023-04-30T13:13:13.603Z [Modules] Streaming discord_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 49%
+2023-04-30T13:13:13.605Z [Modules] Streaming discord_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 51%
+2023-04-30T13:13:13.606Z [Modules] Streaming discord_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 53%
+2023-04-30T13:13:13.610Z [Modules] Streaming discord_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 56%
+2023-04-30T13:13:13.610Z [Modules] Streaming discord_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 58%
+2023-04-30T13:13:13.612Z [Modules] Streaming discord_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 60%
+2023-04-30T13:13:13.612Z [Modules] Streaming discord_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 62%
+2023-04-30T13:13:13.615Z [Modules] Streaming discord_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 64%
+2023-04-30T13:13:13.615Z [Modules] Streaming discord_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 66%
+2023-04-30T13:13:13.618Z [Modules] Streaming discord_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 69%
+2023-04-30T13:13:13.618Z [Modules] Streaming discord_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 71%
+2023-04-30T13:13:13.621Z [Modules] Streaming discord_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 73%
+2023-04-30T13:13:13.622Z [Modules] Streaming discord_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 76%
+2023-04-30T13:13:13.624Z [Modules] Streaming discord_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 78%
+2023-04-30T13:13:13.624Z [Modules] Streaming discord_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 80%
+2023-04-30T13:13:13.628Z [Modules] Streaming discord_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 82%
+2023-04-30T13:13:13.628Z [Modules] Streaming discord_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 84%
+2023-04-30T13:13:13.631Z [Modules] Streaming discord_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 86%
+2023-04-30T13:13:13.631Z [Modules] Streaming discord_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 89%
+2023-04-30T13:13:13.634Z [Modules] Streaming discord_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 91%
+2023-04-30T13:13:13.634Z [Modules] Streaming discord_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 93%
+2023-04-30T13:13:13.637Z [Modules] Streaming discord_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 98%
+2023-04-30T13:13:13.638Z [Modules] Streaming discord_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 100%
+2023-04-30T13:13:13.640Z [Modules] Fetching discord_voice@1 from https://discord.com/api/modules/stable/discord_voice/1
+2023-04-30T13:13:13.640Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip
+2023-04-30T13:13:13.800Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 1%
+2023-04-30T13:13:13.805Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 2%
+2023-04-30T13:13:13.809Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 3%
+2023-04-30T13:13:13.813Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 4%
+2023-04-30T13:13:13.819Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 5%
+2023-04-30T13:13:13.823Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 6%
+2023-04-30T13:13:13.829Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 7%
+2023-04-30T13:13:13.832Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 8%
+2023-04-30T13:13:13.842Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 9%
+2023-04-30T13:13:13.845Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 10%
+2023-04-30T13:13:13.851Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 11%
+2023-04-30T13:13:13.854Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 12%
+2023-04-30T13:13:13.860Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 13%
+2023-04-30T13:13:13.863Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 14%
+2023-04-30T13:13:13.869Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 15%
+2023-04-30T13:13:13.875Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 16%
+2023-04-30T13:13:13.880Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 17%
+2023-04-30T13:13:13.886Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 18%
+2023-04-30T13:13:13.889Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 19%
+2023-04-30T13:13:13.895Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 20%
+2023-04-30T13:13:13.902Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 21%
+2023-04-30T13:13:13.905Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 22%
+2023-04-30T13:13:13.911Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 23%
+2023-04-30T13:13:13.914Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 24%
+2023-04-30T13:13:13.919Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 25%
+2023-04-30T13:13:13.926Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 26%
+2023-04-30T13:13:13.930Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 27%
+2023-04-30T13:13:13.937Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 28%
+2023-04-30T13:13:13.940Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 29%
+2023-04-30T13:13:13.946Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 30%
+2023-04-30T13:13:13.949Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 31%
+2023-04-30T13:13:13.954Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 32%
+2023-04-30T13:13:13.958Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 33%
+2023-04-30T13:13:13.963Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 34%
+2023-04-30T13:13:13.981Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 35%
+2023-04-30T13:13:13.986Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 36%
+2023-04-30T13:13:13.989Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 37%
+2023-04-30T13:13:13.995Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 38%
+2023-04-30T13:13:13.998Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 39%
+2023-04-30T13:13:14.004Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 40%
+2023-04-30T13:13:14.007Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 41%
+2023-04-30T13:13:14.013Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 42%
+2023-04-30T13:13:14.016Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 43%
+2023-04-30T13:13:14.021Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 44%
+2023-04-30T13:13:14.024Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 45%
+2023-04-30T13:13:14.031Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 46%
+2023-04-30T13:13:14.034Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 47%
+2023-04-30T13:13:14.041Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 48%
+2023-04-30T13:13:14.047Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 49%
+2023-04-30T13:13:14.049Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 50%
+2023-04-30T13:13:14.056Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 51%
+2023-04-30T13:13:14.060Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 52%
+2023-04-30T13:13:14.065Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 53%
+2023-04-30T13:13:14.068Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 54%
+2023-04-30T13:13:14.074Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 55%
+2023-04-30T13:13:14.079Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 56%
+2023-04-30T13:13:14.087Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 57%
+2023-04-30T13:13:14.094Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 58%
+2023-04-30T13:13:14.098Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 59%
+2023-04-30T13:13:14.101Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 60%
+2023-04-30T13:13:14.106Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 61%
+2023-04-30T13:13:14.109Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 62%
+2023-04-30T13:13:14.115Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 63%
+2023-04-30T13:13:14.118Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 64%
+2023-04-30T13:13:14.124Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 65%
+2023-04-30T13:13:14.130Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 66%
+2023-04-30T13:13:14.142Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 67%
+2023-04-30T13:13:14.147Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 68%
+2023-04-30T13:13:14.150Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 69%
+2023-04-30T13:13:14.156Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 70%
+2023-04-30T13:13:14.159Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 71%
+2023-04-30T13:13:14.165Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 72%
+2023-04-30T13:13:14.168Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 73%
+2023-04-30T13:13:14.173Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 74%
+2023-04-30T13:13:14.201Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 75%
+2023-04-30T13:13:14.207Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 76%
+2023-04-30T13:13:14.210Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 77%
+2023-04-30T13:13:14.216Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 78%
+2023-04-30T13:13:14.219Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 79%
+2023-04-30T13:13:14.225Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 80%
+2023-04-30T13:13:14.228Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 81%
+2023-04-30T13:13:14.234Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 82%
+2023-04-30T13:13:14.238Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 83%
+2023-04-30T13:13:14.246Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 84%
+2023-04-30T13:13:14.247Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 85%
+2023-04-30T13:13:14.254Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 86%
+2023-04-30T13:13:14.257Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 87%
+2023-04-30T13:13:14.263Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 88%
+2023-04-30T13:13:14.267Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 89%
+2023-04-30T13:13:14.275Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 90%
+2023-04-30T13:13:14.279Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 91%
+2023-04-30T13:13:14.286Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 92%
+2023-04-30T13:13:14.291Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 93%
+2023-04-30T13:13:14.297Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 94%
+2023-04-30T13:13:14.300Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 95%
+2023-04-30T13:13:14.306Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 96%
+2023-04-30T13:13:14.309Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 97%
+2023-04-30T13:13:14.315Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 98%
+2023-04-30T13:13:14.318Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 99%
+2023-04-30T13:13:14.322Z [Modules] Streaming discord_voice@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 100%
+2023-04-30T13:13:14.323Z [Modules] Finished module downloads. [success: 5] [failure: 0]
+2023-04-30T13:13:14.324Z [Modules] Installing updates...
+2023-04-30T13:13:14.324Z [Modules] Installing discord_desktop_core@1 from /home/alex/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip
+2023-04-30T13:13:14.359Z [Modules] Installing discord_erlpack@1 from /home/alex/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip
+2023-04-30T13:13:14.395Z [Modules] Installing discord_spellcheck@1 from /home/alex/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip
+2023-04-30T13:13:14.659Z [Modules] Installing discord_utils@1 from /home/alex/.config/discord/0.0.27/modules/pending/discord_utils-1.zip
+2023-04-30T13:13:14.797Z [Modules] Installing discord_voice@1 from /home/alex/.config/discord/0.0.27/modules/pending/discord_voice-1.zip
+2023-04-30T13:13:15.147Z [Modules] Finished module installations. [success: 5] [failure: 0]
+2023-04-30T13:13:15.147Z [Modules] Checking for host updates.
+2023-04-30T13:13:15.303Z [Modules] Host is up to date.
+2023-04-30T13:13:15.303Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-30T13:13:15.305Z [Modules] No module updates available.
+2023-04-30T13:13:16.263Z [Modules] Starting to install discord_krisp...
+2023-04-30T13:13:16.264Z [Modules] Fetching discord_krisp@1 from https://discord.com/api/modules/stable/discord_krisp/1
+2023-04-30T13:13:16.264Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip
+2023-04-30T13:13:16.333Z [Modules] Starting to install discord_game_utils...
+2023-04-30T13:13:16.577Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 1%
+2023-04-30T13:13:16.595Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 2%
+2023-04-30T13:13:16.600Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 3%
+2023-04-30T13:13:16.605Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 4%
+2023-04-30T13:13:16.612Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 5%
+2023-04-30T13:13:16.615Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 6%
+2023-04-30T13:13:16.617Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 7%
+2023-04-30T13:13:16.620Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 8%
+2023-04-30T13:13:16.624Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 9%
+2023-04-30T13:13:16.626Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 10%
+2023-04-30T13:13:16.628Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 11%
+2023-04-30T13:13:16.630Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 12%
+2023-04-30T13:13:16.634Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 13%
+2023-04-30T13:13:16.635Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 14%
+2023-04-30T13:13:16.636Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 15%
+2023-04-30T13:13:16.637Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 16%
+2023-04-30T13:13:16.637Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 17%
+2023-04-30T13:13:16.637Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 18%
+2023-04-30T13:13:16.638Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 19%
+2023-04-30T13:13:16.638Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 20%
+2023-04-30T13:13:16.638Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 21%
+2023-04-30T13:13:16.639Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 22%
+2023-04-30T13:13:16.639Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 24%
+2023-04-30T13:13:16.640Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 25%
+2023-04-30T13:13:16.645Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 26%
+2023-04-30T13:13:16.656Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 27%
+2023-04-30T13:13:16.659Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 28%
+2023-04-30T13:13:16.666Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 29%
+2023-04-30T13:13:16.671Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 30%
+2023-04-30T13:13:16.677Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 31%
+2023-04-30T13:13:16.681Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 32%
+2023-04-30T13:13:16.689Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 33%
+2023-04-30T13:13:16.694Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 34%
+2023-04-30T13:13:16.701Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 35%
+2023-04-30T13:13:16.706Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 36%
+2023-04-30T13:13:16.712Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 37%
+2023-04-30T13:13:16.718Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 38%
+2023-04-30T13:13:16.724Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 39%
+2023-04-30T13:13:16.732Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 40%
+2023-04-30T13:13:16.735Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 41%
+2023-04-30T13:13:16.747Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 42%
+2023-04-30T13:13:16.749Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 43%
+2023-04-30T13:13:16.755Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 44%
+2023-04-30T13:13:16.761Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 45%
+2023-04-30T13:13:16.764Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 46%
+2023-04-30T13:13:16.770Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 47%
+2023-04-30T13:13:16.776Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 48%
+2023-04-30T13:13:16.780Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 49%
+2023-04-30T13:13:16.786Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 50%
+2023-04-30T13:13:16.791Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 51%
+2023-04-30T13:13:16.795Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 52%
+2023-04-30T13:13:16.800Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 53%
+2023-04-30T13:13:16.807Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 54%
+2023-04-30T13:13:16.812Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 55%
+2023-04-30T13:13:16.815Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 56%
+2023-04-30T13:13:16.821Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 57%
+2023-04-30T13:13:16.826Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 58%
+2023-04-30T13:13:16.843Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 59%
+2023-04-30T13:13:16.852Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 60%
+2023-04-30T13:13:16.858Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 61%
+2023-04-30T13:13:16.866Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 62%
+2023-04-30T13:13:16.869Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 63%
+2023-04-30T13:13:16.874Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 64%
+2023-04-30T13:13:16.880Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 65%
+2023-04-30T13:13:16.884Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 66%
+2023-04-30T13:13:16.884Z [Modules] Checking for host updates.
+2023-04-30T13:13:16.889Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 67%
+2023-04-30T13:13:16.894Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 68%
+2023-04-30T13:13:16.900Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 69%
+2023-04-30T13:13:16.910Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 70%
+2023-04-30T13:13:16.913Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 71%
+2023-04-30T13:13:16.920Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 72%
+2023-04-30T13:13:16.926Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 73%
+2023-04-30T13:13:16.928Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 74%
+2023-04-30T13:13:16.936Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 75%
+2023-04-30T13:13:16.943Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 76%
+2023-04-30T13:13:16.946Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 77%
+2023-04-30T13:13:16.953Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 78%
+2023-04-30T13:13:16.960Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 79%
+2023-04-30T13:13:16.963Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 80%
+2023-04-30T13:13:16.969Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 81%
+2023-04-30T13:13:16.976Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 82%
+2023-04-30T13:13:16.978Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 83%
+2023-04-30T13:13:16.986Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 84%
+2023-04-30T13:13:16.992Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 85%
+2023-04-30T13:13:16.995Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 86%
+2023-04-30T13:13:17.000Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 87%
+2023-04-30T13:13:17.006Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 88%
+2023-04-30T13:13:17.010Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 89%
+2023-04-30T13:13:17.016Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 90%
+2023-04-30T13:13:17.020Z [Modules] Starting to install discord_rpc...
+2023-04-30T13:13:17.023Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 91%
+2023-04-30T13:13:17.032Z [Modules] Host is up to date.
+2023-04-30T13:13:17.032Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-30T13:13:17.033Z [Modules] No module updates available.
+2023-04-30T13:13:17.040Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 92%
+2023-04-30T13:13:17.047Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 93%
+2023-04-30T13:13:17.050Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 94%
+2023-04-30T13:13:17.057Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 95%
+2023-04-30T13:13:17.063Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 96%
+2023-04-30T13:13:17.069Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 97%
+2023-04-30T13:13:17.072Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 98%
+2023-04-30T13:13:17.078Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 99%
+2023-04-30T13:13:17.084Z [Modules] Streaming discord_krisp@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 100%
+2023-04-30T13:13:17.085Z [Modules] Fetching discord_game_utils@1 from https://discord.com/api/modules/stable/discord_game_utils/1
+2023-04-30T13:13:17.085Z [Modules] Streaming discord_game_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip
+2023-04-30T13:13:17.085Z [Modules] Installing discord_krisp@1 from /home/alex/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip
+2023-04-30T13:13:17.297Z [Modules] Streaming discord_game_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 1%
+2023-04-30T13:13:17.297Z [Modules] Streaming discord_game_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 4%
+2023-04-30T13:13:17.297Z [Modules] Streaming discord_game_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 5%
+2023-04-30T13:13:17.300Z [Modules] Streaming discord_game_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 7%
+2023-04-30T13:13:17.301Z [Modules] Streaming discord_game_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 9%
+2023-04-30T13:13:17.307Z [Modules] Streaming discord_game_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 20%
+2023-04-30T13:13:17.309Z [Modules] Streaming discord_game_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 23%
+2023-04-30T13:13:17.309Z [Modules] Streaming discord_game_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 25%
+2023-04-30T13:13:17.312Z [Modules] Streaming discord_game_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 31%
+2023-04-30T13:13:17.316Z [Modules] Streaming discord_game_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 33%
+2023-04-30T13:13:17.316Z [Modules] Streaming discord_game_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 36%
+2023-04-30T13:13:17.318Z [Modules] Streaming discord_game_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 39%
+2023-04-30T13:13:17.318Z [Modules] Streaming discord_game_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 41%
+2023-04-30T13:13:17.321Z [Modules] Streaming discord_game_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 44%
+2023-04-30T13:13:17.323Z [Modules] Streaming discord_game_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 46%
+2023-04-30T13:13:17.324Z [Modules] Streaming discord_game_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 48%
+2023-04-30T13:13:17.324Z [Modules] Streaming discord_game_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 51%
+2023-04-30T13:13:17.327Z [Modules] Streaming discord_game_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 54%
+2023-04-30T13:13:17.328Z [Modules] Streaming discord_game_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 56%
+2023-04-30T13:13:17.330Z [Modules] Streaming discord_game_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 59%
+2023-04-30T13:13:17.330Z [Modules] Streaming discord_game_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 62%
+2023-04-30T13:13:17.332Z [Modules] Streaming discord_game_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 64%
+2023-04-30T13:13:17.332Z [Modules] Streaming discord_game_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 67%
+2023-04-30T13:13:17.336Z [Modules] Streaming discord_game_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 70%
+2023-04-30T13:13:17.337Z [Modules] Streaming discord_game_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 71%
+2023-04-30T13:13:17.346Z [Modules] Streaming discord_game_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 72%
+2023-04-30T13:13:17.349Z [Modules] Streaming discord_game_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 75%
+2023-04-30T13:13:17.352Z [Modules] Streaming discord_game_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 78%
+2023-04-30T13:13:17.355Z [Modules] Streaming discord_game_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 81%
+2023-04-30T13:13:17.356Z [Modules] Streaming discord_game_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 84%
+2023-04-30T13:13:17.358Z [Modules] Streaming discord_game_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 85%
+2023-04-30T13:13:17.358Z [Modules] Streaming discord_game_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 89%
+2023-04-30T13:13:17.361Z [Modules] Streaming discord_game_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 91%
+2023-04-30T13:13:17.361Z [Modules] Streaming discord_game_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 94%
+2023-04-30T13:13:17.364Z [Modules] Streaming discord_game_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 97%
+2023-04-30T13:13:17.365Z [Modules] Streaming discord_game_utils@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 100%
+2023-04-30T13:13:17.365Z [Modules] Fetching discord_rpc@1 from https://discord.com/api/modules/stable/discord_rpc/1
+2023-04-30T13:13:17.365Z [Modules] Streaming discord_rpc@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_rpc-1.zip
+2023-04-30T13:13:17.520Z [Modules] Streaming discord_rpc@1 to /home/alex/.config/discord/0.0.27/modules/pending/discord_rpc-1.zip: 100%
+2023-04-30T13:13:17.522Z [Modules] Finished module downloads. [success: 3] [failure: 0]
+2023-04-30T13:13:17.534Z [Modules] Installing discord_game_utils@1 from /home/alex/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip
+2023-04-30T13:13:17.582Z [Modules] Installing discord_rpc@1 from /home/alex/.config/discord/0.0.27/modules/pending/discord_rpc-1.zip
+2023-04-30T13:13:17.588Z [Modules] Finished module installations. [success: 3] [failure: 0]
+2023-04-30T15:55:45.896Z [Modules] Modules initializing
+2023-04-30T15:55:45.897Z [Modules] Distribution: remote
+2023-04-30T15:55:45.897Z [Modules] Host updates: enabled
+2023-04-30T15:55:45.897Z [Modules] Module updates: enabled
+2023-04-30T15:55:45.897Z [Modules] Module install path: /home/alex/.config/discord/0.0.27/modules
+2023-04-30T15:55:45.897Z [Modules] Module installed file path: /home/alex/.config/discord/0.0.27/modules/installed.json
+2023-04-30T15:55:45.898Z [Modules] Module download path: /home/alex/.config/discord/0.0.27/modules/pending
+2023-04-30T15:55:46.902Z [Modules] No updates to install
+2023-04-30T15:55:46.902Z [Modules] Checking for host updates.
+2023-04-30T15:55:47.129Z [Modules] Host is up to date.
+2023-04-30T15:55:47.130Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-30T15:55:47.157Z [Modules] No module updates available.
+2023-04-30T15:55:48.827Z [Modules] Checking for host updates.
+2023-04-30T15:55:49.011Z [Modules] Host is up to date.
+2023-04-30T15:55:49.011Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-30T15:55:49.013Z [Modules] No module updates available.
+2023-04-30T19:24:48.329Z [Modules] Modules initializing
+2023-04-30T19:24:48.329Z [Modules] Distribution: remote
+2023-04-30T19:24:48.329Z [Modules] Host updates: enabled
+2023-04-30T19:24:48.329Z [Modules] Module updates: enabled
+2023-04-30T19:24:48.329Z [Modules] Module install path: /home/alex/.config/discord/0.0.27/modules
+2023-04-30T19:24:48.329Z [Modules] Module installed file path: /home/alex/.config/discord/0.0.27/modules/installed.json
+2023-04-30T19:24:48.329Z [Modules] Module download path: /home/alex/.config/discord/0.0.27/modules/pending
+2023-04-30T19:24:49.319Z [Modules] No updates to install
+2023-04-30T19:24:49.319Z [Modules] Checking for host updates.
+2023-04-30T19:24:49.530Z [Modules] Host is up to date.
+2023-04-30T19:24:49.531Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-30T19:24:49.568Z [Modules] No module updates available.
+2023-04-30T19:24:50.833Z [Modules] Checking for host updates.
+2023-04-30T19:24:51.026Z [Modules] Host is up to date.
+2023-04-30T19:24:51.026Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-30T19:24:51.028Z [Modules] No module updates available.
+2023-05-01T09:15:43.865Z [Modules] Modules initializing
+2023-05-01T09:15:43.867Z [Modules] Distribution: remote
+2023-05-01T09:15:43.867Z [Modules] Host updates: enabled
+2023-05-01T09:15:43.867Z [Modules] Module updates: enabled
+2023-05-01T09:15:43.868Z [Modules] Module install path: /home/alex/.config/discord/0.0.27/modules
+2023-05-01T09:15:43.868Z [Modules] Module installed file path: /home/alex/.config/discord/0.0.27/modules/installed.json
+2023-05-01T09:15:43.868Z [Modules] Module download path: /home/alex/.config/discord/0.0.27/modules/pending
+2023-05-01T09:15:44.929Z [Modules] No updates to install
+2023-05-01T09:15:44.929Z [Modules] Checking for host updates.
+2023-05-01T09:15:45.156Z [Modules] Host is up to date.
+2023-05-01T09:15:45.156Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-01T09:15:45.183Z [Modules] No module updates available.
+2023-05-01T09:15:47.466Z [Modules] Checking for host updates.
+2023-05-01T09:15:47.682Z [Modules] Host is up to date.
+2023-05-01T09:15:47.683Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-01T09:15:47.687Z [Modules] No module updates available.
+2023-05-01T10:15:47.499Z [Modules] Checking for host updates.
+2023-05-01T10:15:47.652Z [Modules] Host is up to date.
+2023-05-01T10:15:47.652Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-01T10:15:47.680Z [Modules] No module updates available.
+2023-05-01T12:12:07.743Z [Modules] Modules initializing
+2023-05-01T12:12:07.744Z [Modules] Distribution: remote
+2023-05-01T12:12:07.744Z [Modules] Host updates: enabled
+2023-05-01T12:12:07.744Z [Modules] Module updates: enabled
+2023-05-01T12:12:07.744Z [Modules] Module install path: /home/alex/.config/discord/0.0.27/modules
+2023-05-01T12:12:07.744Z [Modules] Module installed file path: /home/alex/.config/discord/0.0.27/modules/installed.json
+2023-05-01T12:12:07.744Z [Modules] Module download path: /home/alex/.config/discord/0.0.27/modules/pending
+2023-05-01T12:12:08.753Z [Modules] No updates to install
+2023-05-01T12:12:08.753Z [Modules] Checking for host updates.
+2023-05-01T12:12:08.984Z [Modules] Host is up to date.
+2023-05-01T12:12:08.984Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-01T12:12:09.014Z [Modules] No module updates available.
+2023-05-01T12:12:10.472Z [Modules] Checking for host updates.
+2023-05-01T12:12:10.602Z [Modules] Host is up to date.
+2023-05-01T12:12:10.602Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-01T12:12:10.612Z [Modules] No module updates available.
+2023-05-01T13:12:10.501Z [Modules] Checking for host updates.
+2023-05-01T13:12:10.664Z [Modules] Host is up to date.
+2023-05-01T13:12:10.664Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-01T13:12:10.703Z [Modules] No module updates available.
+2023-05-01T14:12:10.512Z [Modules] Checking for host updates.
+2023-05-01T14:12:10.674Z [Modules] Host is up to date.
+2023-05-01T14:12:10.674Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-01T14:12:10.711Z [Modules] No module updates available.
+2023-05-01T14:46:14.457Z [Modules] Modules initializing
+2023-05-01T14:46:14.458Z [Modules] Distribution: remote
+2023-05-01T14:46:14.458Z [Modules] Host updates: enabled
+2023-05-01T14:46:14.458Z [Modules] Module updates: enabled
+2023-05-01T14:46:14.459Z [Modules] Module install path: /home/alex/.config/discord/0.0.27/modules
+2023-05-01T14:46:14.459Z [Modules] Module installed file path: /home/alex/.config/discord/0.0.27/modules/installed.json
+2023-05-01T14:46:14.459Z [Modules] Module download path: /home/alex/.config/discord/0.0.27/modules/pending
+2023-05-01T14:46:14.991Z [Modules] No updates to install
+2023-05-01T14:46:14.991Z [Modules] Checking for host updates.
+2023-05-01T14:46:15.187Z [Modules] Host is up to date.
+2023-05-01T14:46:15.187Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-01T14:46:15.211Z [Modules] No module updates available.
+2023-05-01T14:46:16.961Z [Modules] Checking for host updates.
+2023-05-01T14:46:17.107Z [Modules] Host is up to date.
+2023-05-01T14:46:17.107Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-01T14:46:17.109Z [Modules] No module updates available.
+2023-05-01T15:46:16.966Z [Modules] Checking for host updates.
+2023-05-01T15:46:17.141Z [Modules] Host is up to date.
+2023-05-01T15:46:17.141Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-01T15:46:17.173Z [Modules] No module updates available.
+2023-05-01T16:46:16.963Z [Modules] Checking for host updates.
+2023-05-01T16:46:17.151Z [Modules] Host is up to date.
+2023-05-01T16:46:17.152Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-01T16:46:17.185Z [Modules] No module updates available.
+2023-05-01T17:00:44.197Z [Modules] Modules initializing
+2023-05-01T17:00:44.198Z [Modules] Distribution: remote
+2023-05-01T17:00:44.198Z [Modules] Host updates: enabled
+2023-05-01T17:00:44.198Z [Modules] Module updates: enabled
+2023-05-01T17:00:44.198Z [Modules] Module install path: /home/alex/.config/discord/0.0.27/modules
+2023-05-01T17:00:44.198Z [Modules] Module installed file path: /home/alex/.config/discord/0.0.27/modules/installed.json
+2023-05-01T17:00:44.198Z [Modules] Module download path: /home/alex/.config/discord/0.0.27/modules/pending
+2023-05-01T17:00:44.389Z [Modules] No updates to install
+2023-05-01T17:00:44.389Z [Modules] Checking for host updates.
+2023-05-01T17:00:44.603Z [Modules] Host is up to date.
+2023-05-01T17:00:44.603Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-01T17:00:44.636Z [Modules] No module updates available.
+2023-05-01T17:00:46.991Z [Modules] Checking for host updates.
+2023-05-01T17:00:47.170Z [Modules] Host is up to date.
+2023-05-01T17:00:47.170Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-01T17:00:47.176Z [Modules] No module updates available.
+2023-05-01T18:00:46.998Z [Modules] Checking for host updates.
+2023-05-01T18:00:47.200Z [Modules] Host is up to date.
+2023-05-01T18:00:47.200Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-01T18:00:47.229Z [Modules] No module updates available.
+2023-05-01T18:35:07.468Z [Modules] Modules initializing
+2023-05-01T18:35:07.469Z [Modules] Distribution: remote
+2023-05-01T18:35:07.469Z [Modules] Host updates: enabled
+2023-05-01T18:35:07.469Z [Modules] Module updates: enabled
+2023-05-01T18:35:07.470Z [Modules] Module install path: /home/alex/.config/discord/0.0.27/modules
+2023-05-01T18:35:07.470Z [Modules] Module installed file path: /home/alex/.config/discord/0.0.27/modules/installed.json
+2023-05-01T18:35:07.470Z [Modules] Module download path: /home/alex/.config/discord/0.0.27/modules/pending
+2023-05-01T18:35:07.673Z [Modules] No updates to install
+2023-05-01T18:35:07.675Z [Modules] Checking for host updates.
+2023-05-01T18:35:07.706Z [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+2023-05-01T18:35:17.708Z [Modules] Checking for host updates.
+2023-05-01T18:35:18.028Z [Modules] Host is up to date.
+2023-05-01T18:35:18.028Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-01T18:35:18.051Z [Modules] No module updates available.
+2023-05-01T18:35:19.348Z [Modules] Checking for host updates.
+2023-05-01T18:35:19.503Z [Modules] Host is up to date.
+2023-05-01T18:35:19.503Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-01T18:35:19.505Z [Modules] No module updates available.
+2023-05-01T18:37:58.649Z [Modules] Modules initializing
+2023-05-01T18:37:58.650Z [Modules] Distribution: remote
+2023-05-01T18:37:58.650Z [Modules] Host updates: enabled
+2023-05-01T18:37:58.650Z [Modules] Module updates: enabled
+2023-05-01T18:37:58.650Z [Modules] Module install path: /home/alex/.config/discord/0.0.27/modules
+2023-05-01T18:37:58.650Z [Modules] Module installed file path: /home/alex/.config/discord/0.0.27/modules/installed.json
+2023-05-01T18:37:58.650Z [Modules] Module download path: /home/alex/.config/discord/0.0.27/modules/pending
+2023-05-01T18:37:58.849Z [Modules] No updates to install
+2023-05-01T18:37:58.850Z [Modules] Checking for host updates.
+2023-05-01T18:37:58.879Z [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+2023-05-01T18:38:08.881Z [Modules] Checking for host updates.
+2023-05-01T18:38:09.344Z [Modules] Host is up to date.
+2023-05-01T18:38:09.344Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-01T18:38:09.377Z [Modules] No module updates available.
+2023-05-01T18:38:10.741Z [Modules] Checking for host updates.
+2023-05-01T18:38:10.881Z [Modules] Host is up to date.
+2023-05-01T18:38:10.881Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-01T18:38:10.883Z [Modules] No module updates available.
+2023-05-01T18:46:43.905Z [Modules] Modules initializing
+2023-05-01T18:46:43.906Z [Modules] Distribution: remote
+2023-05-01T18:46:43.906Z [Modules] Host updates: enabled
+2023-05-01T18:46:43.906Z [Modules] Module updates: enabled
+2023-05-01T18:46:43.906Z [Modules] Module install path: /home/alex/.config/discord/0.0.27/modules
+2023-05-01T18:46:43.906Z [Modules] Module installed file path: /home/alex/.config/discord/0.0.27/modules/installed.json
+2023-05-01T18:46:43.906Z [Modules] Module download path: /home/alex/.config/discord/0.0.27/modules/pending
+2023-05-01T18:46:44.426Z [Modules] No updates to install
+2023-05-01T18:46:44.426Z [Modules] Checking for host updates.
+2023-05-01T18:46:49.707Z [Modules] Host is up to date.
+2023-05-01T18:46:49.708Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-01T18:46:49.735Z [Modules] No module updates available.
+2023-05-01T18:46:51.660Z [Modules] Checking for host updates.
+2023-05-01T18:46:51.823Z [Modules] Host is up to date.
+2023-05-01T18:46:51.823Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-01T18:46:51.825Z [Modules] No module updates available.
+2023-05-02T06:01:07.524Z [Modules] Modules initializing
+2023-05-02T06:01:07.526Z [Modules] Distribution: remote
+2023-05-02T06:01:07.526Z [Modules] Host updates: enabled
+2023-05-02T06:01:07.526Z [Modules] Module updates: enabled
+2023-05-02T06:01:07.527Z [Modules] Module install path: /home/alex/.config/discord/0.0.27/modules
+2023-05-02T06:01:07.527Z [Modules] Module installed file path: /home/alex/.config/discord/0.0.27/modules/installed.json
+2023-05-02T06:01:07.527Z [Modules] Module download path: /home/alex/.config/discord/0.0.27/modules/pending
+2023-05-02T06:01:07.727Z [Modules] No updates to install
+2023-05-02T06:01:07.727Z [Modules] Checking for host updates.
+2023-05-02T06:01:07.756Z [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+2023-05-02T06:01:17.757Z [Modules] Checking for host updates.
+2023-05-02T06:01:17.763Z [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+2023-05-02T06:01:37.771Z [Modules] Checking for host updates.
+2023-05-02T06:01:37.779Z [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+2023-05-02T06:02:07.798Z [Modules] Checking for host updates.
+2023-05-02T06:02:07.806Z [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+2023-05-02T06:02:47.835Z [Modules] Checking for host updates.
+2023-05-02T06:02:47.844Z [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+2023-05-02T06:03:37.885Z [Modules] Checking for host updates.
+2023-05-02T06:03:37.894Z [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+2023-05-02T06:04:37.945Z [Modules] Checking for host updates.
+2023-05-02T06:04:37.954Z [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+2023-05-02T06:05:37.965Z [Modules] Checking for host updates.
+2023-05-02T06:05:37.973Z [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+2023-05-02T06:06:38.021Z [Modules] Checking for host updates.
+2023-05-02T06:06:38.030Z [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+2023-05-02T06:07:38.081Z [Modules] Checking for host updates.
+2023-05-02T06:07:38.084Z [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+2023-05-02T06:08:38.118Z [Modules] Checking for host updates.
+2023-05-02T06:08:38.121Z [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+2023-05-02T06:09:38.168Z [Modules] Checking for host updates.
+2023-05-02T06:09:38.175Z [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+2023-05-02T06:10:38.227Z [Modules] Checking for host updates.
+2023-05-02T06:10:38.447Z [Modules] Host is up to date.
+2023-05-02T06:10:38.448Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-02T06:10:38.476Z [Modules] No module updates available.
+2023-05-02T06:10:41.828Z [Modules] Checking for host updates.
+2023-05-02T06:10:42.002Z [Modules] Host is up to date.
+2023-05-02T06:10:42.003Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-02T06:10:42.004Z [Modules] No module updates available.
+2023-05-02T07:10:41.862Z [Modules] Checking for host updates.
+2023-05-02T07:10:42.050Z [Modules] Host is up to date.
+2023-05-02T07:10:42.050Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-02T07:10:42.084Z [Modules] No module updates available.
+2023-05-02T08:10:41.855Z [Modules] Checking for host updates.
+2023-05-02T08:10:42.025Z [Modules] Host is up to date.
+2023-05-02T08:10:42.026Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-02T08:10:42.058Z [Modules] No module updates available.
+2023-05-02T08:49:49.972Z [Modules] Modules initializing
+2023-05-02T08:49:49.973Z [Modules] Distribution: remote
+2023-05-02T08:49:49.974Z [Modules] Host updates: enabled
+2023-05-02T08:49:49.974Z [Modules] Module updates: enabled
+2023-05-02T08:49:49.975Z [Modules] Module install path: /home/alex/.config/discord/0.0.27/modules
+2023-05-02T08:49:49.975Z [Modules] Module installed file path: /home/alex/.config/discord/0.0.27/modules/installed.json
+2023-05-02T08:49:49.975Z [Modules] Module download path: /home/alex/.config/discord/0.0.27/modules/pending
+2023-05-02T08:49:50.169Z [Modules] No updates to install
+2023-05-02T08:49:50.170Z [Modules] Checking for host updates.
+2023-05-02T08:49:50.385Z [Modules] Host is up to date.
+2023-05-02T08:49:50.385Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-02T08:49:50.423Z [Modules] No module updates available.
+2023-05-02T08:49:53.054Z [Modules] Checking for host updates.
+2023-05-02T08:49:53.193Z [Modules] Host is up to date.
+2023-05-02T08:49:53.193Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-02T08:49:53.196Z [Modules] No module updates available.
+2023-05-02T10:16:04.897Z [Modules] Checking for host updates.
+2023-05-02T10:16:05.102Z [Modules] Host is up to date.
+2023-05-02T10:16:05.102Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-02T10:16:05.132Z [Modules] No module updates available.
+2023-05-02T10:28:35.178Z [Modules] Modules initializing
+2023-05-02T10:28:35.179Z [Modules] Distribution: remote
+2023-05-02T10:28:35.179Z [Modules] Host updates: enabled
+2023-05-02T10:28:35.179Z [Modules] Module updates: enabled
+2023-05-02T10:28:35.180Z [Modules] Module install path: /home/alex/.config/discord/0.0.27/modules
+2023-05-02T10:28:35.180Z [Modules] Module installed file path: /home/alex/.config/discord/0.0.27/modules/installed.json
+2023-05-02T10:28:35.180Z [Modules] Module download path: /home/alex/.config/discord/0.0.27/modules/pending
+2023-05-02T10:28:35.380Z [Modules] No updates to install
+2023-05-02T10:28:35.381Z [Modules] Checking for host updates.
+2023-05-02T10:28:35.595Z [Modules] Host is up to date.
+2023-05-02T10:28:35.595Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-02T10:28:35.623Z [Modules] No module updates available.
+2023-05-02T10:28:37.911Z [Modules] Checking for host updates.
+2023-05-02T10:28:38.086Z [Modules] Host is up to date.
+2023-05-02T10:28:38.086Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-02T10:28:38.091Z [Modules] No module updates available.
+2023-05-02T11:28:37.951Z [Modules] Checking for host updates.
+2023-05-02T11:28:38.132Z [Modules] Host is up to date.
+2023-05-02T11:28:38.133Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-02T11:28:38.161Z [Modules] No module updates available.
+2023-05-02T13:44:23.974Z [Modules] Modules initializing
+2023-05-02T13:44:23.975Z [Modules] Distribution: remote
+2023-05-02T13:44:23.975Z [Modules] Host updates: enabled
+2023-05-02T13:44:23.975Z [Modules] Module updates: enabled
+2023-05-02T13:44:23.976Z [Modules] Module install path: /home/alex/.config/discord/0.0.27/modules
+2023-05-02T13:44:23.976Z [Modules] Module installed file path: /home/alex/.config/discord/0.0.27/modules/installed.json
+2023-05-02T13:44:23.976Z [Modules] Module download path: /home/alex/.config/discord/0.0.27/modules/pending
+2023-05-02T13:44:24.205Z [Modules] No updates to install
+2023-05-02T13:44:24.205Z [Modules] Checking for host updates.
+2023-05-02T13:44:24.237Z [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+2023-05-02T13:44:34.239Z [Modules] Checking for host updates.
+2023-05-02T13:44:34.253Z [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+2023-05-02T13:44:54.262Z [Modules] Checking for host updates.
+2023-05-02T13:44:54.270Z [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+2023-05-02T13:45:24.289Z [Modules] Checking for host updates.
+2023-05-02T13:45:25.136Z [Modules] Host is up to date.
+2023-05-02T13:45:25.136Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-02T13:45:25.204Z [Modules] No module updates available.
+2023-05-02T13:45:26.633Z [Modules] Checking for host updates.
+2023-05-02T13:45:26.791Z [Modules] Host is up to date.
+2023-05-02T13:45:26.791Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-02T13:45:26.793Z [Modules] No module updates available.
+2023-05-02T16:15:30.683Z [Modules] Modules initializing
+2023-05-02T16:15:30.684Z [Modules] Distribution: remote
+2023-05-02T16:15:30.685Z [Modules] Host updates: enabled
+2023-05-02T16:15:30.685Z [Modules] Module updates: enabled
+2023-05-02T16:15:30.685Z [Modules] Module install path: /home/alex/.config/discord/0.0.27/modules
+2023-05-02T16:15:30.685Z [Modules] Module installed file path: /home/alex/.config/discord/0.0.27/modules/installed.json
+2023-05-02T16:15:30.685Z [Modules] Module download path: /home/alex/.config/discord/0.0.27/modules/pending
+2023-05-02T16:15:31.114Z [Modules] No updates to install
+2023-05-02T16:15:31.114Z [Modules] Checking for host updates.
+2023-05-02T16:15:31.418Z [Modules] Host is up to date.
+2023-05-02T16:15:31.418Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-02T16:15:31.448Z [Modules] No module updates available.
+2023-05-02T16:15:34.981Z [Modules] Checking for host updates.
+2023-05-02T16:15:35.498Z [Modules] Host is up to date.
+2023-05-02T16:15:35.498Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-02T16:15:35.502Z [Modules] No module updates available.
+2023-05-02T17:15:34.988Z [Modules] Checking for host updates.
+2023-05-02T17:15:35.175Z [Modules] Host is up to date.
+2023-05-02T17:15:35.176Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-02T17:15:35.207Z [Modules] No module updates available.
+2023-05-02T19:17:32.130Z [Modules] Checking for host updates.
+2023-05-02T19:17:32.456Z [Modules] Host is up to date.
+2023-05-02T19:17:32.456Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-02T19:17:32.519Z [Modules] No module updates available.
+2023-05-02T20:17:32.152Z [Modules] Checking for host updates.
+2023-05-02T20:17:32.321Z [Modules] Host is up to date.
+2023-05-02T20:17:32.321Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-02T20:17:32.351Z [Modules] No module updates available.
+2023-05-03T06:04:07.492Z [Modules] Modules initializing
+2023-05-03T06:04:07.493Z [Modules] Distribution: remote
+2023-05-03T06:04:07.493Z [Modules] Host updates: enabled
+2023-05-03T06:04:07.493Z [Modules] Module updates: enabled
+2023-05-03T06:04:07.494Z [Modules] Module install path: /home/alex/.config/discord/0.0.27/modules
+2023-05-03T06:04:07.494Z [Modules] Module installed file path: /home/alex/.config/discord/0.0.27/modules/installed.json
+2023-05-03T06:04:07.494Z [Modules] Module download path: /home/alex/.config/discord/0.0.27/modules/pending
+2023-05-03T06:04:07.990Z [Modules] No updates to install
+2023-05-03T06:04:07.991Z [Modules] Checking for host updates.
+2023-05-03T06:04:08.244Z [Modules] Host is up to date.
+2023-05-03T06:04:08.245Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-03T06:04:08.276Z [Modules] No module updates available.
+2023-05-03T06:04:12.422Z [Modules] Checking for host updates.
+2023-05-03T06:04:12.640Z [Modules] Host is up to date.
+2023-05-03T06:04:12.641Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-03T06:04:12.647Z [Modules] No module updates available.
+2023-05-03T07:04:12.464Z [Modules] Checking for host updates.
+2023-05-03T07:04:12.645Z [Modules] Host is up to date.
+2023-05-03T07:04:12.645Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-03T07:04:12.678Z [Modules] No module updates available.
+2023-05-03T08:04:12.423Z [Modules] Checking for host updates.
+2023-05-03T08:04:12.629Z [Modules] Host is up to date.
+2023-05-03T08:04:12.629Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-03T08:04:12.658Z [Modules] No module updates available.
+2023-05-03T09:04:12.460Z [Modules] Checking for host updates.
+2023-05-03T09:04:12.643Z [Modules] Host is up to date.
+2023-05-03T09:04:12.644Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-03T09:04:12.682Z [Modules] No module updates available.
+2023-05-03T10:04:12.450Z [Modules] Checking for host updates.
+2023-05-03T10:04:12.659Z [Modules] Host is up to date.
+2023-05-03T10:04:12.659Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-03T10:04:12.688Z [Modules] No module updates available.
+2023-05-03T11:04:12.450Z [Modules] Checking for host updates.
+2023-05-03T11:04:12.627Z [Modules] Host is up to date.
+2023-05-03T11:04:12.627Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-03T11:04:12.663Z [Modules] No module updates available.
+2023-05-03T12:04:12.453Z [Modules] Checking for host updates.
+2023-05-03T12:04:12.682Z [Modules] Host is up to date.
+2023-05-03T12:04:12.682Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-03T12:04:12.713Z [Modules] No module updates available.
+2023-05-03T16:11:47.135Z [Modules] Modules initializing
+2023-05-03T16:11:47.136Z [Modules] Distribution: remote
+2023-05-03T16:11:47.137Z [Modules] Host updates: enabled
+2023-05-03T16:11:47.137Z [Modules] Module updates: enabled
+2023-05-03T16:11:47.137Z [Modules] Module install path: /home/alex/.config/discord/0.0.27/modules
+2023-05-03T16:11:47.137Z [Modules] Module installed file path: /home/alex/.config/discord/0.0.27/modules/installed.json
+2023-05-03T16:11:47.137Z [Modules] Module download path: /home/alex/.config/discord/0.0.27/modules/pending
+2023-05-03T16:11:47.571Z [Modules] No updates to install
+2023-05-03T16:11:47.571Z [Modules] Checking for host updates.
+2023-05-03T16:11:48.179Z [Modules] Host is up to date.
+2023-05-03T16:11:48.179Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-03T16:11:48.301Z [Modules] No module updates available.
+2023-05-03T16:11:57.052Z [Modules] Checking for host updates.
+2023-05-03T16:11:57.268Z [Modules] Host is up to date.
+2023-05-03T16:11:57.268Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-03T16:11:57.278Z [Modules] No module updates available.
+2023-05-03T17:11:57.103Z [Modules] Checking for host updates.
+2023-05-03T17:11:57.643Z [Modules] Host is up to date.
+2023-05-03T17:11:57.643Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-03T17:11:57.711Z [Modules] No module updates available.
+2023-05-03T18:11:57.091Z [Modules] Checking for host updates.
+2023-05-03T18:11:57.319Z [Modules] Host is up to date.
+2023-05-03T18:11:57.319Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-03T18:11:57.544Z [Modules] No module updates available.
+2023-05-03T18:26:08.220Z [Modules] Modules initializing
+2023-05-03T18:26:08.222Z [Modules] Distribution: remote
+2023-05-03T18:26:08.222Z [Modules] Host updates: enabled
+2023-05-03T18:26:08.222Z [Modules] Module updates: enabled
+2023-05-03T18:26:08.222Z [Modules] Module install path: /home/alex/.config/discord/0.0.27/modules
+2023-05-03T18:26:08.222Z [Modules] Module installed file path: /home/alex/.config/discord/0.0.27/modules/installed.json
+2023-05-03T18:26:08.222Z [Modules] Module download path: /home/alex/.config/discord/0.0.27/modules/pending
+2023-05-03T18:26:08.654Z [Modules] No updates to install
+2023-05-03T18:26:08.655Z [Modules] Checking for host updates.
+2023-05-03T18:26:09.280Z [Modules] Host is up to date.
+2023-05-03T18:26:09.281Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-03T18:26:09.423Z [Modules] No module updates available.
+2023-05-03T18:26:15.308Z [Modules] Checking for host updates.
+2023-05-03T18:26:15.607Z [Modules] Host is up to date.
+2023-05-03T18:26:15.607Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-03T18:26:15.611Z [Modules] No module updates available.
+2023-05-03T19:26:15.309Z [Modules] Checking for host updates.
+2023-05-03T19:26:15.552Z [Modules] Host is up to date.
+2023-05-03T19:26:15.552Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-03T19:26:15.586Z [Modules] No module updates available.
+2023-05-03T20:26:15.336Z [Modules] Checking for host updates.
+2023-05-03T20:26:15.570Z [Modules] Host is up to date.
+2023-05-03T20:26:15.571Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-03T20:26:15.612Z [Modules] No module updates available.
+2023-05-04T06:21:20.371Z [Modules] Modules initializing
+2023-05-04T06:21:20.372Z [Modules] Distribution: remote
+2023-05-04T06:21:20.372Z [Modules] Host updates: enabled
+2023-05-04T06:21:20.372Z [Modules] Module updates: enabled
+2023-05-04T06:21:20.372Z [Modules] Module install path: /home/alex/.config/discord/0.0.27/modules
+2023-05-04T06:21:20.373Z [Modules] Module installed file path: /home/alex/.config/discord/0.0.27/modules/installed.json
+2023-05-04T06:21:20.373Z [Modules] Module download path: /home/alex/.config/discord/0.0.27/modules/pending
+2023-05-04T06:21:20.803Z [Modules] No updates to install
+2023-05-04T06:21:20.803Z [Modules] Checking for host updates.
+2023-05-04T06:21:20.987Z [Modules] Host is up to date.
+2023-05-04T06:21:20.987Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-04T06:21:21.017Z [Modules] No module updates available.
+2023-05-04T06:21:25.329Z [Modules] Checking for host updates.
+2023-05-04T06:21:25.467Z [Modules] Host is up to date.
+2023-05-04T06:21:25.467Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-04T06:21:25.471Z [Modules] No module updates available.
+2023-05-04T06:32:29.593Z [Modules] Modules initializing
+2023-05-04T06:32:29.594Z [Modules] Distribution: remote
+2023-05-04T06:32:29.594Z [Modules] Host updates: enabled
+2023-05-04T06:32:29.594Z [Modules] Module updates: enabled
+2023-05-04T06:32:29.595Z [Modules] Module install path: /home/alex/.config/discord/0.0.27/modules
+2023-05-04T06:32:29.595Z [Modules] Module installed file path: /home/alex/.config/discord/0.0.27/modules/installed.json
+2023-05-04T06:32:29.595Z [Modules] Module download path: /home/alex/.config/discord/0.0.27/modules/pending
+2023-05-04T06:32:29.806Z [Modules] No updates to install
+2023-05-04T06:32:29.806Z [Modules] Checking for host updates.
+2023-05-04T06:32:30.135Z [Modules] Host is up to date.
+2023-05-04T06:32:30.136Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-04T06:32:30.195Z [Modules] No module updates available.
+2023-05-04T06:32:34.258Z [Modules] Checking for host updates.
+2023-05-04T06:32:34.397Z [Modules] Host is up to date.
+2023-05-04T06:32:34.398Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-04T06:32:34.403Z [Modules] No module updates available.
+2023-05-04T06:41:28.683Z [Modules] Modules initializing
+2023-05-04T06:41:28.685Z [Modules] Distribution: remote
+2023-05-04T06:41:28.685Z [Modules] Host updates: enabled
+2023-05-04T06:41:28.685Z [Modules] Module updates: enabled
+2023-05-04T06:41:28.685Z [Modules] Module install path: /home/alex/.config/discord/0.0.27/modules
+2023-05-04T06:41:28.685Z [Modules] Module installed file path: /home/alex/.config/discord/0.0.27/modules/installed.json
+2023-05-04T06:41:28.685Z [Modules] Module download path: /home/alex/.config/discord/0.0.27/modules/pending
+2023-05-04T06:41:29.099Z [Modules] No updates to install
+2023-05-04T06:41:29.100Z [Modules] Checking for host updates.
+2023-05-04T06:41:29.282Z [Modules] Host is up to date.
+2023-05-04T06:41:29.283Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-04T06:41:29.308Z [Modules] No module updates available.
+2023-05-04T06:41:32.601Z [Modules] Checking for host updates.
+2023-05-04T06:41:32.759Z [Modules] Host is up to date.
+2023-05-04T06:41:32.759Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-04T06:41:32.764Z [Modules] No module updates available.
+2023-05-04T07:41:32.629Z [Modules] Checking for host updates.
+2023-05-04T07:41:32.892Z [Modules] Host is up to date.
+2023-05-04T07:41:32.892Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-04T07:41:32.931Z [Modules] No module updates available.
+2023-05-04T08:41:32.639Z [Modules] Checking for host updates.
+2023-05-04T08:41:32.895Z [Modules] Host is up to date.
+2023-05-04T08:41:32.896Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-04T08:41:32.924Z [Modules] No module updates available.
+2023-05-04T10:16:16.694Z [Modules] Checking for host updates.
+2023-05-04T10:16:16.979Z [Modules] Host is up to date.
+2023-05-04T10:16:16.980Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-04T10:16:17.018Z [Modules] No module updates available.
+2023-05-04T11:16:16.693Z [Modules] Checking for host updates.
+2023-05-04T11:16:16.865Z [Modules] Host is up to date.
+2023-05-04T11:16:16.865Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-04T11:16:16.893Z [Modules] No module updates available.
+2023-05-04T11:42:15.915Z [Modules] Modules initializing
+2023-05-04T11:42:15.916Z [Modules] Distribution: remote
+2023-05-04T11:42:15.916Z [Modules] Host updates: enabled
+2023-05-04T11:42:15.916Z [Modules] Module updates: enabled
+2023-05-04T11:42:15.916Z [Modules] Module install path: /home/alex/.config/discord/0.0.27/modules
+2023-05-04T11:42:15.916Z [Modules] Module installed file path: /home/alex/.config/discord/0.0.27/modules/installed.json
+2023-05-04T11:42:15.916Z [Modules] Module download path: /home/alex/.config/discord/0.0.27/modules/pending
+2023-05-04T11:42:16.404Z [Modules] No updates to install
+2023-05-04T11:42:16.404Z [Modules] Checking for host updates.
+2023-05-04T11:42:16.627Z [Modules] Host is up to date.
+2023-05-04T11:42:16.627Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-04T11:42:16.659Z [Modules] No module updates available.
+2023-05-04T11:42:19.751Z [Modules] Checking for host updates.
+2023-05-04T11:42:19.898Z [Modules] Host is up to date.
+2023-05-04T11:42:19.898Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-04T11:42:19.903Z [Modules] No module updates available.
+2023-05-04T11:51:33.521Z [Modules] Modules initializing
+2023-05-04T11:51:33.522Z [Modules] Distribution: remote
+2023-05-04T11:51:33.522Z [Modules] Host updates: enabled
+2023-05-04T11:51:33.522Z [Modules] Module updates: enabled
+2023-05-04T11:51:33.522Z [Modules] Module install path: /home/alex/.config/discord/0.0.27/modules
+2023-05-04T11:51:33.522Z [Modules] Module installed file path: /home/alex/.config/discord/0.0.27/modules/installed.json
+2023-05-04T11:51:33.522Z [Modules] Module download path: /home/alex/.config/discord/0.0.27/modules/pending
+2023-05-04T11:51:34.038Z [Modules] No updates to install
+2023-05-04T11:51:34.038Z [Modules] Checking for host updates.
+2023-05-04T11:51:34.256Z [Modules] Host is up to date.
+2023-05-04T11:51:34.256Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-04T11:51:34.287Z [Modules] No module updates available.
+2023-05-04T11:51:36.727Z [Modules] Checking for host updates.
+2023-05-04T11:51:36.873Z [Modules] Host is up to date.
+2023-05-04T11:51:36.873Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-04T11:51:36.879Z [Modules] No module updates available.
+2023-05-04T11:57:38.732Z [Modules] Modules initializing
+2023-05-04T11:57:38.733Z [Modules] Distribution: remote
+2023-05-04T11:57:38.733Z [Modules] Host updates: enabled
+2023-05-04T11:57:38.733Z [Modules] Module updates: enabled
+2023-05-04T11:57:38.733Z [Modules] Module install path: /home/alex/.config/discord/0.0.27/modules
+2023-05-04T11:57:38.733Z [Modules] Module installed file path: /home/alex/.config/discord/0.0.27/modules/installed.json
+2023-05-04T11:57:38.733Z [Modules] Module download path: /home/alex/.config/discord/0.0.27/modules/pending
+2023-05-04T11:57:38.947Z [Modules] No updates to install
+2023-05-04T11:57:38.948Z [Modules] Checking for host updates.
+2023-05-04T11:57:39.171Z [Modules] Host is up to date.
+2023-05-04T11:57:39.171Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-04T11:57:39.200Z [Modules] No module updates available.
+2023-05-04T11:57:41.194Z [Modules] Checking for host updates.
+2023-05-04T11:57:41.341Z [Modules] Host is up to date.
+2023-05-04T11:57:41.342Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-04T11:57:41.351Z [Modules] No module updates available.
+2023-05-04T15:53:56.964Z [Modules] Modules initializing
+2023-05-04T15:53:56.965Z [Modules] Distribution: remote
+2023-05-04T15:53:56.965Z [Modules] Host updates: enabled
+2023-05-04T15:53:56.965Z [Modules] Module updates: enabled
+2023-05-04T15:53:56.966Z [Modules] Module install path: /home/alex/.config/discord/0.0.27/modules
+2023-05-04T15:53:56.966Z [Modules] Module installed file path: /home/alex/.config/discord/0.0.27/modules/installed.json
+2023-05-04T15:53:56.966Z [Modules] Module download path: /home/alex/.config/discord/0.0.27/modules/pending
+2023-05-04T15:53:57.191Z [Modules] No updates to install
+2023-05-04T15:53:57.192Z [Modules] Checking for host updates.
+2023-05-04T15:53:57.227Z [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+2023-05-04T15:54:07.229Z [Modules] Checking for host updates.
+2023-05-04T15:54:07.249Z [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+2023-05-04T15:54:27.260Z [Modules] Checking for host updates.
+2023-05-04T15:54:27.269Z [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+2023-05-04T15:54:57.288Z [Modules] Checking for host updates.
+2023-05-04T15:54:57.297Z [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+2023-05-04T15:55:37.328Z [Modules] Checking for host updates.
+2023-05-04T15:55:37.633Z [Modules] Host is up to date.
+2023-05-04T15:55:37.634Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-04T15:55:37.679Z [Modules] No module updates available.
+2023-05-04T15:55:39.189Z [Modules] Checking for host updates.
+2023-05-04T15:55:39.352Z [Modules] Host is up to date.
+2023-05-04T15:55:39.352Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-04T15:55:39.354Z [Modules] No module updates available.
+2023-05-04T16:55:39.194Z [Modules] Checking for host updates.
+2023-05-04T16:55:39.203Z [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+2023-05-04T17:55:39.190Z [Modules] Checking for host updates.
+2023-05-04T17:55:39.198Z [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+2023-05-05T06:03:21.608Z [Modules] Modules initializing
+2023-05-05T06:03:21.609Z [Modules] Distribution: remote
+2023-05-05T06:03:21.609Z [Modules] Host updates: enabled
+2023-05-05T06:03:21.609Z [Modules] Module updates: enabled
+2023-05-05T06:03:21.609Z [Modules] Module install path: /home/alex/.config/discord/0.0.27/modules
+2023-05-05T06:03:21.609Z [Modules] Module installed file path: /home/alex/.config/discord/0.0.27/modules/installed.json
+2023-05-05T06:03:21.609Z [Modules] Module download path: /home/alex/.config/discord/0.0.27/modules/pending
+2023-05-05T06:03:21.818Z [Modules] No updates to install
+2023-05-05T06:03:21.819Z [Modules] Checking for host updates.
+2023-05-05T06:03:22.040Z [Modules] Host is up to date.
+2023-05-05T06:03:22.040Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-05T06:03:22.072Z [Modules] No module updates available.
+2023-05-05T06:03:25.935Z [Modules] Checking for host updates.
+2023-05-05T06:03:26.079Z [Modules] Host is up to date.
+2023-05-05T06:03:26.079Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-05T06:03:26.084Z [Modules] No module updates available.
+2023-05-05T07:03:25.965Z [Modules] Checking for host updates.
+2023-05-05T07:03:26.145Z [Modules] Host is up to date.
+2023-05-05T07:03:26.145Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-05T07:03:26.181Z [Modules] No module updates available.
+2023-05-05T08:03:25.940Z [Modules] Checking for host updates.
+2023-05-05T08:03:26.211Z [Modules] Host is up to date.
+2023-05-05T08:03:26.211Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-05T08:03:26.247Z [Modules] No module updates available.
+2023-05-05T09:43:09.480Z [Modules] Checking for host updates.
+2023-05-05T09:43:09.758Z [Modules] Host is up to date.
+2023-05-05T09:43:09.758Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-05T09:43:09.795Z [Modules] No module updates available.
+2023-05-05T10:43:09.482Z [Modules] Checking for host updates.
+2023-05-05T10:43:09.839Z [Modules] Host is up to date.
+2023-05-05T10:43:09.840Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-05T10:43:09.874Z [Modules] No module updates available.
+2023-05-05T11:43:09.503Z [Modules] Checking for host updates.
+2023-05-05T11:43:09.731Z [Modules] Host is up to date.
+2023-05-05T11:43:09.731Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-05T11:43:09.762Z [Modules] No module updates available.
+2023-05-05T17:02:40.856Z [Modules] Modules initializing
+2023-05-05T17:02:40.857Z [Modules] Distribution: remote
+2023-05-05T17:02:40.857Z [Modules] Host updates: enabled
+2023-05-05T17:02:40.857Z [Modules] Module updates: enabled
+2023-05-05T17:02:40.857Z [Modules] Module install path: /home/alex/.config/discord/0.0.27/modules
+2023-05-05T17:02:40.857Z [Modules] Module installed file path: /home/alex/.config/discord/0.0.27/modules/installed.json
+2023-05-05T17:02:40.858Z [Modules] Module download path: /home/alex/.config/discord/0.0.27/modules/pending
+2023-05-05T17:02:41.086Z [Modules] No updates to install
+2023-05-05T17:02:41.086Z [Modules] Checking for host updates.
+2023-05-05T17:02:41.115Z [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+2023-05-05T17:02:51.116Z [Modules] Checking for host updates.
+2023-05-05T17:02:51.360Z [Modules] Host is up to date.
+2023-05-05T17:02:51.360Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-05T17:02:51.390Z [Modules] No module updates available.
+2023-05-05T17:02:53.134Z [Modules] Checking for host updates.
+2023-05-05T17:02:53.369Z [Modules] Host is up to date.
+2023-05-05T17:02:53.369Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-05T17:02:53.371Z [Modules] No module updates available.
+2023-05-05T17:25:43.649Z [Modules] Modules initializing
+2023-05-05T17:25:43.650Z [Modules] Distribution: remote
+2023-05-05T17:25:43.650Z [Modules] Host updates: enabled
+2023-05-05T17:25:43.650Z [Modules] Module updates: enabled
+2023-05-05T17:25:43.651Z [Modules] Module install path: /home/alex/.config/discord/0.0.27/modules
+2023-05-05T17:25:43.651Z [Modules] Module installed file path: /home/alex/.config/discord/0.0.27/modules/installed.json
+2023-05-05T17:25:43.651Z [Modules] Module download path: /home/alex/.config/discord/0.0.27/modules/pending
+2023-05-05T17:25:43.883Z [Modules] No updates to install
+2023-05-05T17:25:43.883Z [Modules] Checking for host updates.
+2023-05-05T17:25:44.133Z [Modules] Host is up to date.
+2023-05-05T17:25:44.134Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-05T17:25:44.166Z [Modules] No module updates available.
+2023-05-05T17:25:52.274Z [Modules] Checking for host updates.
+2023-05-05T17:25:52.435Z [Modules] Host is up to date.
+2023-05-05T17:25:52.436Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-05T17:25:52.442Z [Modules] No module updates available.
+2023-05-05T19:46:36.220Z [Modules] Modules initializing
+2023-05-05T19:46:36.221Z [Modules] Distribution: remote
+2023-05-05T19:46:36.222Z [Modules] Host updates: enabled
+2023-05-05T19:46:36.222Z [Modules] Module updates: enabled
+2023-05-05T19:46:36.223Z [Modules] Module install path: /home/alex/.config/discord/0.0.27/modules
+2023-05-05T19:46:36.223Z [Modules] Module installed file path: /home/alex/.config/discord/0.0.27/modules/installed.json
+2023-05-05T19:46:36.223Z [Modules] Module download path: /home/alex/.config/discord/0.0.27/modules/pending
+2023-05-05T19:46:36.452Z [Modules] No updates to install
+2023-05-05T19:46:36.453Z [Modules] Checking for host updates.
+2023-05-05T19:46:36.481Z [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+2023-05-05T19:46:46.482Z [Modules] Checking for host updates.
+2023-05-05T19:46:46.761Z [Modules] Host is up to date.
+2023-05-05T19:46:46.762Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-05T19:46:46.804Z [Modules] No module updates available.
+2023-05-05T19:46:48.911Z [Modules] Checking for host updates.
+2023-05-05T19:46:49.052Z [Modules] Host is up to date.
+2023-05-05T19:46:49.053Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-05T19:46:49.055Z [Modules] No module updates available.
+2023-05-06T08:04:15.834Z [Modules] Modules initializing
+2023-05-06T08:04:15.835Z [Modules] Distribution: remote
+2023-05-06T08:04:15.835Z [Modules] Host updates: enabled
+2023-05-06T08:04:15.835Z [Modules] Module updates: enabled
+2023-05-06T08:04:15.835Z [Modules] Module install path: /home/alex/.config/discord/0.0.27/modules
+2023-05-06T08:04:15.836Z [Modules] Module installed file path: /home/alex/.config/discord/0.0.27/modules/installed.json
+2023-05-06T08:04:15.836Z [Modules] Module download path: /home/alex/.config/discord/0.0.27/modules/pending
+2023-05-06T08:04:16.056Z [Modules] No updates to install
+2023-05-06T08:04:16.057Z [Modules] Checking for host updates.
+2023-05-06T08:04:16.083Z [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+2023-05-06T08:04:26.084Z [Modules] Checking for host updates.
+2023-05-06T08:04:26.298Z [Modules] Host is up to date.
+2023-05-06T08:04:26.298Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-06T08:04:26.326Z [Modules] No module updates available.
+2023-05-06T08:04:28.117Z [Modules] Checking for host updates.
+2023-05-06T08:04:28.295Z [Modules] Host is up to date.
+2023-05-06T08:04:28.295Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-06T08:04:28.297Z [Modules] No module updates available.
+2023-05-06T08:26:20.119Z [Modules] Modules initializing
+2023-05-06T08:26:20.120Z [Modules] Distribution: remote
+2023-05-06T08:26:20.120Z [Modules] Host updates: enabled
+2023-05-06T08:26:20.120Z [Modules] Module updates: enabled
+2023-05-06T08:26:20.120Z [Modules] Module install path: /home/alex/.config/discord/0.0.27/modules
+2023-05-06T08:26:20.121Z [Modules] Module installed file path: /home/alex/.config/discord/0.0.27/modules/installed.json
+2023-05-06T08:26:20.121Z [Modules] Module download path: /home/alex/.config/discord/0.0.27/modules/pending
+2023-05-06T08:26:20.355Z [Modules] No updates to install
+2023-05-06T08:26:20.356Z [Modules] Checking for host updates.
+2023-05-06T08:26:20.384Z [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+2023-05-06T08:26:30.385Z [Modules] Checking for host updates.
+2023-05-06T08:26:30.594Z [Modules] Host is up to date.
+2023-05-06T08:26:30.595Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-06T08:26:30.622Z [Modules] No module updates available.
+2023-05-06T08:26:32.520Z [Modules] Checking for host updates.
+2023-05-06T08:26:32.787Z [Modules] Host is up to date.
+2023-05-06T08:26:32.787Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-06T08:26:32.790Z [Modules] No module updates available.

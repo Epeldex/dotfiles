@@ -1,0 +1,2 @@
+2023-05-05 19:02:43.064 [error] [Extension Host] Failed to load local configuration: getaddrinfo EAI_AGAIN raw.githubusercontent.com
+2023-05-05 19:02:45.201 [info] [perf] Render performance baseline is 38ms

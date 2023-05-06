@@ -1,0 +1,47 @@
+2023-05-05 13:28:11.613 [info] Extension host with pid 301184 started
+2023-05-05 13:28:11.613 [info] Skipping acquiring lock for /home/alex/.config/Code - OSS/User/workspaceStorage/250f25be12ab05216d32bc4e04d0cd1a.
+2023-05-05 13:28:11.671 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-05-05 13:28:11.691 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-05-05 13:28:11.692 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+2023-05-05 13:28:11.764 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-05-05 13:28:11.764 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-05-05 13:28:11.805 [info] Eager extensions activated
+2023-05-05 13:28:11.825 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-05-05 13:28:11.825 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-05-05 13:28:35.578 [info] Extension host terminating: received terminate message from renderer
+2023-05-05 13:28:35.584 [info] Extension host with pid 301184 exiting with code 0
+2023-05-05 13:28:36.534 [info] Extension host with pid 301699 started
+2023-05-05 13:28:36.534 [info] Skipping acquiring lock for /home/alex/.config/Code - OSS/User/workspaceStorage/0be8627cbc0098eb764a343a263ca93e.
+2023-05-05 13:28:36.604 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-05-05 13:28:36.604 [info] ExtensionService#_doActivateExtension redhat.java, startup: false, activationEvent: 'onLanguage:java'
+2023-05-05 13:28:36.604 [info] ExtensionService#_doActivateExtension vscjava.vscode-java-debug, startup: false, activationEvent: 'onLanguage:java'
+2023-05-05 13:28:36.706 [warning] [redhat.java] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[java]', provide the URI of a resource or 'null' for any resource.
+2023-05-05 13:28:36.738 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-05-05 13:28:36.739 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+2023-05-05 13:28:36.832 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-05-05 13:28:36.832 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-05-05 13:28:36.880 [warning] [redhat.java] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[java]', provide the URI of a resource or 'null' for any resource.
+2023-05-05 13:28:37.002 [info] Eager extensions activated
+2023-05-05 13:28:37.026 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-05-05 13:28:37.027 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-05-05 13:28:40.079 [error] [redhat.java] provider FAILED
+2023-05-05 13:28:40.084 [error] Error: Pending response rejected since connection got disposed
+	at Object.dispose (/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/dist/extension.js:2:1077861)
+	at Object.dispose (/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/dist/extension.js:2:1132270)
+	at /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/dist/extension.js:2:1128043
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-05-05 13:40:37.045 [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+2023-05-05 13:41:45.543 [error] [redhat.java] provider FAILED
+2023-05-05 13:41:45.543 [error] Error: The request (id: 71, method: 'textDocument/hover') has been cancelled
+	at /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/dist/extension.js:2:1071113
+	at ie (/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/dist/extension.js:2:1071407)
+	at /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/dist/extension.js:2:1066191
+	at Immediate.<anonymous> (/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/dist/extension.js:2:1066211)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-05 14:07:22.449 [error] [redhat.java] provider FAILED
+2023-05-05 14:07:22.449 [error] Error: The request (id: 137, method: 'textDocument/hover') has been cancelled
+	at /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/dist/extension.js:2:1071113
+	at ie (/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/dist/extension.js:2:1071407)
+	at /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/dist/extension.js:2:1066191
+	at Immediate.<anonymous> (/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/dist/extension.js:2:1066211)
+	at process.processImmediate (node:internal/timers:466:21)

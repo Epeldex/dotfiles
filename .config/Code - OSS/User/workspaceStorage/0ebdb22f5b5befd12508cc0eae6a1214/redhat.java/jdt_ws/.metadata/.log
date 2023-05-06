@@ -1,0 +1,102 @@
+!SESSION 2023-05-01 20:01:19.326 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=20.0.1
+java.vendor=N/A
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/alex/.config/Code - OSS/User/workspaceStorage/0ebdb22f5b5befd12508cc0eae6a1214/redhat.java/jdt_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-01 20:01:20.201
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-01 20:01:20.294
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-01 20:01:20.316
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-01 20:01:20.317
+!MESSAGE Initializing Java Language Server 1.23.0.202304270334
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-01 20:01:20.322
+!MESSAGE Runtime JavaEnvironment [name=null, path=/usr/lib/jvm/java-20-openjdk, javadoc=null, sources=null] is not valid.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-01 20:01:20.831
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-01 20:01:20.832
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.reloadBundles, java.project.isTestFile, java.edit.handlePasteEvent, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.decompile, java.project.createModuleInfo, java.protobuf.generateSources, java.project.resolveSourceAttachment, java.project.addToSourcePath, java.completion.onDidSelect]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-01 20:01:20.832
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-01 20:01:20.832
+!MESSAGE Non-Static Commands: [vscode.java.checkProjectSettings, vscode.java.isOnClasspath, vscode.java.fetchUsageData, vscode.java.validateLaunchConfig, vscode.java.resolveInlineVariables, vscode.java.resolveClassFilters, vscode.java.resolveMainMethod, vscode.java.resolveClasspath, vscode.java.resolveBuildFiles, vscode.java.resolveMainClass, vscode.java.updateDebugSettings, vscode.java.resolveSourceUri, vscode.java.fetchPlatformSettings, vscode.java.buildWorkspace, vscode.java.startDebugSession, vscode.java.inferLaunchCommandLength, vscode.java.resolveElementAtSelection, vscode.java.resolveJavaExecutable]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-01 20:01:20.835
+!MESSAGE Started org.eclipse.m2e.core 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-01 20:01:20.984
+!MESSAGE ProjectRegistryRefreshJob finished 149ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-01 20:01:21.003
+!MESSAGE Started org.eclipse.buildship.core 19ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-01 20:01:21.011
+!MESSAGE RepositoryRegistryUpdateJob finished 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-01 20:01:21.021
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-01 20:01:21.022
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-01 20:01:21.116
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-01 20:01:21.453
+!MESSAGE Importing Eclipse project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-01 20:01:21.491
+!MESSAGE Workspace initialized in 481ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-01 20:01:21.525
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-01 20:01:21.528
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-01 20:01:21.529
+!MESSAGE Runtime JavaEnvironment [name=null, path=/usr/lib/jvm/java-20-openjdk, javadoc=null, sources=null] is not valid.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-01 20:01:21.533
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-01 20:01:23.083
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-01 20:01:25.199
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY java-debug 1 0 2023-05-01 20:01:25.402
+!MESSAGE Starting com.microsoft.java.debug.plugin
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-01 20:01:25.882
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-01 20:01:25.882
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-01 20:01:25.883
+!MESSAGE Validated 1. Took 32 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-01 20:01:35.868
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-01 20:01:35.871
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-01 20:01:35.898
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-01 20:01:35.903
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:

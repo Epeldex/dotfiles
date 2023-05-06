@@ -1,0 +1,28 @@
+{
+    "window.zoomLevel": 2,
+    "redhat.telemetry.enabled": true,
+    "files.associations": {
+        "*.java": "java"
+    },
+    "[java]": {
+
+        "editor.suggest.snippetsPreventQuickSuggestion:s": false
+    },
+    "java.jdt.ls.java.home": "",
+    "editor.minimap.renderCharacters": false,
+    "editor.minimap.enabled": false,
+
+    "java.configuration.runtimes": [
+        {
+          "path": "/usr/lib/jvm/java-20-openjdk",
+          "default": true
+        },
+    ],
+    "workbench.colorTheme": "Dracula Dark+",
+    "editor.fontSize": 16,
+    "editor.fontFamily": "AnonimousPro",
+    "editor.fontLigatures": true,
+    "editor.fontWeight": "normal",
+    "terminal.explorerKind": "external",
+    "terminal.external.linuxExec": "alacritty"
+}

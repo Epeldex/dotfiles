@@ -1,0 +1,14 @@
+2023-05-05 19:34:04.744 [info] Extension host with pid 11063 started
+2023-05-05 19:34:04.745 [info] Skipping acquiring lock for /home/alex/.config/Code - OSS/User/workspaceStorage/0be8627cbc0098eb764a343a263ca93e.
+2023-05-05 19:34:04.828 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-05-05 19:34:04.828 [info] ExtensionService#_doActivateExtension redhat.java, startup: false, activationEvent: 'onLanguage:java'
+2023-05-05 19:34:04.829 [info] ExtensionService#_doActivateExtension vscjava.vscode-java-debug, startup: false, activationEvent: 'onLanguage:java'
+2023-05-05 19:34:04.943 [warning] [redhat.java] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[java]', provide the URI of a resource or 'null' for any resource.
+2023-05-05 19:34:04.980 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-05-05 19:34:04.980 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+2023-05-05 19:34:05.098 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-05-05 19:34:05.098 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-05-05 19:34:05.126 [warning] [redhat.java] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[java]', provide the URI of a resource or 'null' for any resource.
+2023-05-05 19:34:05.210 [info] Eager extensions activated
+2023-05-05 19:34:05.266 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-05-05 19:34:05.266 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'

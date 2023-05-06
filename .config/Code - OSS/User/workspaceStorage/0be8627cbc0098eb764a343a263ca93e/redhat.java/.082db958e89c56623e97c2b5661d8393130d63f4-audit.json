@@ -1,0 +1,29 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 2
+    },
+    "auditLog": "/home/alex/.config/Code - OSS/User/workspaceStorage/0be8627cbc0098eb764a343a263ca93e/redhat.java/.082db958e89c56623e97c2b5661d8393130d63f4-audit.json",
+    "files": [
+        {
+            "date": 1683219407869,
+            "name": "/home/alex/.config/Code - OSS/User/workspaceStorage/0be8627cbc0098eb764a343a263ca93e/redhat.java/client.log.2023-05-04.1",
+            "hash": "c0b9ff82de6629dec9758457037c1261"
+        },
+        {
+            "date": 1683223894609,
+            "name": "/home/alex/.config/Code - OSS/User/workspaceStorage/0be8627cbc0098eb764a343a263ca93e/redhat.java/client.log.2023-05-04.2",
+            "hash": "a25751bab41638dc7377d1ff376c1e04"
+        },
+        {
+            "date": 1683266603496,
+            "name": "/home/alex/.config/Code - OSS/User/workspaceStorage/0be8627cbc0098eb764a343a263ca93e/redhat.java/client.log.2023-05-05",
+            "hash": "dca482e27248dd37ff5b11ebf63cf4be"
+        },
+        {
+            "date": 1683360257623,
+            "name": "/home/alex/.config/Code - OSS/User/workspaceStorage/0be8627cbc0098eb764a343a263ca93e/redhat.java/client.log.2023-05-06",
+            "hash": "dc4c1389fff180f45bb8f9a35be8a9c5"
+        }
+    ]
+}

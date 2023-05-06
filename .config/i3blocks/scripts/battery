@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# Get the battery capacity and status from the sysfs files
+capacity=$(cat /sys/class/power_supply/BAT1/capacity)
+
+# Print the battery percentage remaining
+echo "<span foreground='#5e81ac' background='#2e3440' size='x-large'></span><span background='#5e81ac'>🔋<span foreground='#2e3440' size='large'></span> <span size='medium' rise='1pt'>${capacity}%</span> </span><span background='#5e81ac' foreground='#2e3440' size='x-large'></span>"

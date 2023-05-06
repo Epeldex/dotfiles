@@ -1,0 +1,10 @@
+[Default Applications]
+font/ttf=Alacritty.desktop
+application/x-compressed-tar=Alacritty.desktop
+x-scheme-handler/eclipse+command x-scheme-handler/eclipse+mpc=_var_lib_snapd_snap_eclipse_66_.desktop
+x-scheme-handler/eclipse+mpc x-scheme-handler/eclipse+command=_var_lib_snapd_snap_eclipse_66_.desktop
+
+[Added Associations]
+font/ttf=Alacritty.desktop;
+application/x-compressed-tar=Alacritty.desktop;
+text/plain=libreoffice-writer.desktop;

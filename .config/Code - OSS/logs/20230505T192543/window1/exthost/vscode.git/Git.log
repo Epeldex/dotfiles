@@ -1,0 +1,24 @@
+2023-05-05 19:25:46.568 [info] Log level: Info
+2023-05-05 19:25:46.568 [info] Validating found git in: "git"
+2023-05-05 19:25:46.568 [info] Using git "2.40.1" from "git"
+2023-05-05 19:25:46.568 [info] > git rev-parse --show-toplevel [34ms]
+2023-05-05 19:25:46.568 [info] > git rev-parse --git-dir --git-common-dir [58ms]
+2023-05-05 19:25:46.568 [info] Open repository: /home/alex/DAM/RetoFinal/PokeCatch
+2023-05-05 19:25:46.568 [info] > git rev-parse --show-toplevel [19ms]
+2023-05-05 19:25:46.576 [info] > git rev-parse --show-toplevel [10ms]
+2023-05-05 19:25:46.588 [info] > git config --get commit.template [31ms]
+2023-05-05 19:25:46.593 [info] > git rev-parse --show-toplevel [7ms]
+2023-05-05 19:25:46.611 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dev_trainer refs/remotes/dev_trainer [3ms]
+2023-05-05 19:25:46.620 [info] > git rev-parse --show-toplevel [20ms]
+2023-05-05 19:25:46.629 [info] > git status -z -uall [10ms]
+2023-05-05 19:25:46.646 [info] > git rev-parse --show-toplevel [18ms]
+2023-05-05 19:25:46.648 [info] > git config --get commit.template [2ms]
+2023-05-05 19:25:46.658 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dev_trainer refs/remotes/dev_trainer [2ms]
+2023-05-05 19:25:46.674 [info] > git status -z -uall [7ms]
+2023-05-05 19:25:47.025 [info] > git show --textconv :src/view/ProfessorView.java [16ms]
+2023-05-05 19:25:47.026 [info] > git ls-files --stage -- /home/alex/DAM/RetoFinal/PokeCatch/src/view/ProfessorView.java [3ms]
+2023-05-05 19:25:47.040 [info] > git cat-file -s da4fd3a0d608ccf68f81665d29ca99dc92cb7cd0 [5ms]
+2023-05-05 19:25:47.105 [info] > git check-ignore -v -z --stdin [1ms]
+2023-05-05 19:27:13.139 [info] > git config --get commit.template [1ms]
+2023-05-05 19:27:13.144 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dev_trainer refs/remotes/dev_trainer [1ms]
+2023-05-05 19:27:13.152 [info] > git status -z -uall [1ms]

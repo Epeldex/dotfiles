@@ -1,0 +1,60 @@
+!SESSION 2023-05-01 20:01:19.289 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=20.0.1
+java.vendor=N/A
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/alex/.config/Code - OSS/User/workspaceStorage/0ebdb22f5b5befd12508cc0eae6a1214/redhat.java/ss_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-01 20:01:20.494
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-01 20:01:20.605
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-01 20:01:20.652
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-01 20:01:20.653
+!MESSAGE Initializing Java Language Server 1.23.0.202304270334
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-01 20:01:20.666
+!MESSAGE Runtime JavaEnvironment [name=null, path=/usr/lib/jvm/java-20-openjdk, javadoc=null, sources=null] is not valid.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-01 20:01:20.723
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-01 20:01:20.739
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-01 20:01:20.772
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-01 20:01:21.102
+!MESSAGE Workspace initialized in 380ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-01 20:01:21.135
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-01 20:01:21.137
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-01 20:01:21.140
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-01 20:01:21.142
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-01 20:01:21.143
+!MESSAGE Runtime JavaEnvironment [name=null, path=/usr/lib/jvm/java-20-openjdk, javadoc=null, sources=null] is not valid.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-01 20:01:21.588
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-01 20:01:21.593
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-01 20:01:21.615
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-01 20:01:21.624
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:

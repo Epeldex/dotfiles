@@ -1,0 +1,15 @@
+{
+    "window.zoomLevel": 2,
+    "redhat.telemetry.enabled": true,
+    "java.configuration.runtimes": [],
+    "files.associations": {
+        "*.java": "java"
+    },
+    "[java]": {
+
+        "editor.suggest.snippetsPreventQuickSuggestion:s": false
+    },
+    "java.jdt.ls.java.home": "",
+    "editor.minimap.renderCharacters": false,
+    "editor.minimap.enabled": false
+}

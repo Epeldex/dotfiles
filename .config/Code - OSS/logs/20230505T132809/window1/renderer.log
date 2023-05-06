@@ -1,0 +1,7 @@
+2023-05-05 13:28:14.297 [info] [perf] Render performance baseline is 21ms
+2023-05-05 13:28:39.154 [info] [perf] Render performance baseline is 27ms
+2023-05-05 13:28:40.117 [error] Pending response rejected since connection got disposed: Error: Pending response rejected since connection got disposed
+	at Object.dispose (/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/dist/extension.js:2:1077861)
+	at Object.dispose (/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/dist/extension.js:2:1132270)
+	at /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/dist/extension.js:2:1128043
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)

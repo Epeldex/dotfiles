@@ -1,0 +1,631 @@
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-20-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/lombok/lombok-1.18.27.jar -jar /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/alex/.config/Code - OSS/User/globalStorage/redhat.java/1.18.0/config_ss_linux -data /home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2023-05-01 16:58:34.814'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.concurrent\n',
+  level: 'info',
+  timestamp: '2023-05-01 16:58:34.961'
+}
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-20-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/lombok/lombok-1.18.27.jar -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java -Daether.dependencyCollector.impl=bf -jar /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/alex/.config/Code - OSS/User/globalStorage/redhat.java/1.18.0/config_linux -data /home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2023-05-01 16:58:35.103'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.concurrent\n',
+  level: 'info',
+  timestamp: '2023-05-01 16:58:35.226'
+}
+{ level: 'error', timestamp: '2023-05-01 16:58:41.017' }
+{
+  message: '[Error - 4:58:42 PM] May 1, 2023, 4:58:42 PM Error occured while building workspace. Details: \n' +
+    ' message: The import com.toedter cannot be resolved; code: 268435846; resource: /home/alex/DAM/RetoFinal/PokeCatch/src/view/ProfessorView.java; line: 21\n' +
+    ' message: JDateChooser cannot be resolved to a type; code: 16777218; resource: /home/alex/DAM/RetoFinal/PokeCatch/src/view/ProfessorView.java; line: 218\n' +
+    ' message: JDateChooser cannot be resolved to a type; code: 16777218; resource: /home/alex/DAM/RetoFinal/PokeCatch/src/view/ProfessorView.java; line: 218',
+  level: 'info',
+  timestamp: '2023-05-01 16:58:42.711'
+}
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-20-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/lombok/lombok-1.18.27.jar -jar /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/alex/.config/Code - OSS/User/globalStorage/redhat.java/1.18.0/config_ss_linux -data /home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2023-05-01 17:03:57.298'
+}
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-20-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/lombok/lombok-1.18.27.jar -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java -Daether.dependencyCollector.impl=bf -jar /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/alex/.config/Code - OSS/User/globalStorage/redhat.java/1.18.0/config_linux -data /home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2023-05-01 17:03:57.341'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.concurrent\n',
+  level: 'info',
+  timestamp: '2023-05-01 17:03:57.349'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.concurrent, jdk.incubator.vector\n',
+  level: 'info',
+  timestamp: '2023-05-01 17:03:57.382'
+}
+{ level: 'error', timestamp: '2023-05-01 17:04:00.670' }
+{
+  message: '[Error - 5:04:01 PM] May 1, 2023, 5:04:01 PM Error occured while building workspace. Details: \n' +
+    ' message: The import com.toedter cannot be resolved; code: 268435846; resource: /home/alex/DAM/RetoFinal/PokeCatch/src/view/ProfessorView.java; line: 21\n' +
+    ' message: JDateChooser cannot be resolved to a type; code: 16777218; resource: /home/alex/DAM/RetoFinal/PokeCatch/src/view/ProfessorView.java; line: 218\n' +
+    ' message: JDateChooser cannot be resolved to a type; code: 16777218; resource: /home/alex/DAM/RetoFinal/PokeCatch/src/view/ProfessorView.java; line: 218',
+  level: 'info',
+  timestamp: '2023-05-01 17:04:01.039'
+}
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-20-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/lombok/lombok-1.18.27.jar -jar /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/alex/.config/Code - OSS/User/globalStorage/redhat.java/1.18.0/config_ss_linux -data /home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2023-05-01 17:04:25.491'
+}
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-20-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/lombok/lombok-1.18.27.jar -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java -Daether.dependencyCollector.impl=bf -jar /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/alex/.config/Code - OSS/User/globalStorage/redhat.java/1.18.0/config_linux -data /home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2023-05-01 17:04:25.555'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.concurrent, jdk.incubator.vector\n',
+  level: 'info',
+  timestamp: '2023-05-01 17:04:25.563'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.concurrent\n',
+  level: 'info',
+  timestamp: '2023-05-01 17:04:25.592'
+}
+{ level: 'error', timestamp: '2023-05-01 17:04:28.859' }
+{
+  message: '[Error - 5:04:29 PM] May 1, 2023, 5:04:29 PM Error occured while building workspace. Details: \n' +
+    ' message: The import com.toedter cannot be resolved; code: 268435846; resource: /home/alex/DAM/RetoFinal/PokeCatch/src/view/ProfessorView.java; line: 21\n' +
+    ' message: JDateChooser cannot be resolved to a type; code: 16777218; resource: /home/alex/DAM/RetoFinal/PokeCatch/src/view/ProfessorView.java; line: 218\n' +
+    ' message: JDateChooser cannot be resolved to a type; code: 16777218; resource: /home/alex/DAM/RetoFinal/PokeCatch/src/view/ProfessorView.java; line: 218',
+  level: 'info',
+  timestamp: '2023-05-01 17:04:29.157'
+}
+{
+  message: "Failed to provide hover command Error: The request (id: 105, method: 'java/findLinks') has been cancelled",
+  level: 'error',
+  timestamp: '2023-05-01 17:08:56.782'
+}
+{
+  message: '[Error - 6:00:06 PM] May 1, 2023, 6:00:06 PM JavaBuilder handling ImageBuilderInternalException while building: PokeCatch\n' +
+    "Resource already exists on disk: '/PokeCatch/bin/controller/Config.properties'.\n" +
+    "org.eclipse.core.internal.resources.ResourceException(/PokeCatch/bin/controller/Config.properties)[272]: java.lang.Exception: Resource already exists on disk: '/PokeCatch/bin/controller/Config.properties'.\n" +
+    '\tat org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)\n' +
+    '\tat org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)\n' +
+    '\tat org.eclipse.core.internal.localstore.FileSystemResourceManager.copy(FileSystemResourceManager.java:329)\n' +
+    '\tat org.eclipse.core.internal.resources.Resource.copy(Resource.java:540)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.copyResource(AbstractImageBuilder.java:394)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.findSourceFiles(IncrementalImageBuilder.java:711)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.findSourceFiles(IncrementalImageBuilder.java:588)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.findSourceFiles(IncrementalImageBuilder.java:539)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.build(IncrementalImageBuilder.java:119)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.JavaBuilder.buildDeltas(JavaBuilder.java:290)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:213)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1020)\n' +
+    '\tat org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:247)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:303)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:392)\n' +
+    '\tat org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:395)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:506)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:454)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:536)\n' +
+    '\tat org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:196)\n' +
+    '\tat org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:289)\n' +
+    '\tat org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)\n',
+  level: 'info',
+  timestamp: '2023-05-01 18:00:06.525'
+}
+{
+  message: '[Error - 6:04:49 PM] May 1, 2023, 6:04:49 PM JavaBuilder handling ImageBuilderInternalException while building: PokeCatch\n' +
+    "Resource already exists on disk: '/PokeCatch/bin/resources/Config.properties'.\n" +
+    "org.eclipse.core.internal.resources.ResourceException(/PokeCatch/bin/resources/Config.properties)[272]: java.lang.Exception: Resource already exists on disk: '/PokeCatch/bin/resources/Config.properties'.\n" +
+    '\tat org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)\n' +
+    '\tat org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)\n' +
+    '\tat org.eclipse.core.internal.localstore.FileSystemResourceManager.copy(FileSystemResourceManager.java:329)\n' +
+    '\tat org.eclipse.core.internal.resources.Resource.copy(Resource.java:540)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.copyResource(AbstractImageBuilder.java:394)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.findSourceFiles(IncrementalImageBuilder.java:711)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.findSourceFiles(IncrementalImageBuilder.java:588)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.findSourceFiles(IncrementalImageBuilder.java:539)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.build(IncrementalImageBuilder.java:119)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.JavaBuilder.buildDeltas(JavaBuilder.java:290)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:213)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1020)\n' +
+    '\tat org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:247)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:303)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:392)\n' +
+    '\tat org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:395)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:506)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:454)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:536)\n' +
+    '\tat org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:196)\n' +
+    '\tat org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:289)\n' +
+    '\tat org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)\n',
+  level: 'info',
+  timestamp: '2023-05-01 18:04:49.100'
+}
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-20-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/lombok/lombok-1.18.27.jar -jar /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/alex/.config/Code - OSS/User/globalStorage/redhat.java/1.18.0/config_ss_linux -data /home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2023-05-01 18:54:00.899'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.concurrent\n',
+  level: 'info',
+  timestamp: '2023-05-01 18:54:00.948'
+}
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-20-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/lombok/lombok-1.18.27.jar -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java -Daether.dependencyCollector.impl=bf -jar /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/alex/.config/Code - OSS/User/globalStorage/redhat.java/1.18.0/config_linux -data /home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2023-05-01 18:54:01.119'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.concurrent, jdk.incubator.vector\n',
+  level: 'info',
+  timestamp: '2023-05-01 18:54:01.223'
+}
+{ level: 'error', timestamp: '2023-05-01 18:54:04.915' }
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-20-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/lombok/lombok-1.18.27.jar -jar /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/alex/.config/Code - OSS/User/globalStorage/redhat.java/1.18.0/config_ss_linux -data /home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2023-05-01 18:54:27.902'
+}
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-20-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/lombok/lombok-1.18.27.jar -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java -Daether.dependencyCollector.impl=bf -jar /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/alex/.config/Code - OSS/User/globalStorage/redhat.java/1.18.0/config_linux -data /home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2023-05-01 18:54:27.949'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.concurrent, jdk.incubator.vector\n',
+  level: 'info',
+  timestamp: '2023-05-01 18:54:27.950'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.concurrent, jdk.incubator.vector\n',
+  level: 'info',
+  timestamp: '2023-05-01 18:54:27.981'
+}
+{ level: 'error', timestamp: '2023-05-01 18:54:31.540' }
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-20-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/lombok/lombok-1.18.27.jar -jar /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/alex/.config/Code - OSS/User/globalStorage/redhat.java/1.18.0/config_ss_linux -data /home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2023-05-01 19:00:02.553'
+}
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-20-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/lombok/lombok-1.18.27.jar -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java -Daether.dependencyCollector.impl=bf -jar /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/alex/.config/Code - OSS/User/globalStorage/redhat.java/1.18.0/config_linux -data /home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2023-05-01 19:00:02.633'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.concurrent\n',
+  level: 'info',
+  timestamp: '2023-05-01 19:00:02.635'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.concurrent, jdk.incubator.vector\n',
+  level: 'info',
+  timestamp: '2023-05-01 19:00:02.692'
+}
+{ level: 'error', timestamp: '2023-05-01 19:00:06.202' }
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-20-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/lombok/lombok-1.18.27.jar -jar /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/alex/.config/Code - OSS/User/globalStorage/redhat.java/1.18.0/config_ss_linux -data /home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2023-05-01 19:00:46.382'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.concurrent, jdk.incubator.vector\n',
+  level: 'info',
+  timestamp: '2023-05-01 19:00:46.512'
+}
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-20-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/lombok/lombok-1.18.27.jar -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java -Daether.dependencyCollector.impl=bf -jar /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/alex/.config/Code - OSS/User/globalStorage/redhat.java/1.18.0/config_linux -data /home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2023-05-01 19:00:46.580'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.concurrent\n',
+  level: 'info',
+  timestamp: '2023-05-01 19:00:46.663'
+}
+{ level: 'error', timestamp: '2023-05-01 19:00:51.290' }
+{
+  message: "Use the JDK from 'java.jdt.ls.java.home' setting as the initial default project JDK.",
+  level: 'info',
+  timestamp: '2023-05-01 19:04:47.285'
+}
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-20-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/lombok/lombok-1.18.27.jar -jar /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/alex/.config/Code - OSS/User/globalStorage/redhat.java/1.18.0/config_ss_linux -data /home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2023-05-01 19:04:47.358'
+}
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-20-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/lombok/lombok-1.18.27.jar -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java -Daether.dependencyCollector.impl=bf -jar /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/alex/.config/Code - OSS/User/globalStorage/redhat.java/1.18.0/config_linux -data /home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2023-05-01 19:04:47.408'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.concurrent\n',
+  level: 'info',
+  timestamp: '2023-05-01 19:04:47.410'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.concurrent\n',
+  level: 'info',
+  timestamp: '2023-05-01 19:04:47.444'
+}
+{ level: 'error', timestamp: '2023-05-01 19:04:50.021' }
+{
+  message: "Use the JDK from 'java.jdt.ls.java.home' setting as the initial default project JDK.",
+  level: 'info',
+  timestamp: '2023-05-01 19:18:35.266'
+}
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-20-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/lombok/lombok-1.18.27.jar -jar /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/alex/.config/Code - OSS/User/globalStorage/redhat.java/1.18.0/config_ss_linux -data /home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2023-05-01 19:18:35.348'
+}
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-20-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/lombok/lombok-1.18.27.jar -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java -Daether.dependencyCollector.impl=bf -jar /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/alex/.config/Code - OSS/User/globalStorage/redhat.java/1.18.0/config_linux -data /home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2023-05-01 19:18:35.388'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.concurrent\n',
+  level: 'info',
+  timestamp: '2023-05-01 19:18:35.395'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.concurrent\n',
+  level: 'info',
+  timestamp: '2023-05-01 19:18:35.423'
+}
+{ level: 'error', timestamp: '2023-05-01 19:18:37.615' }
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-20-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/lombok/lombok-1.18.27.jar -jar /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/alex/.config/Code - OSS/User/globalStorage/redhat.java/1.18.0/config_ss_linux -data /home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2023-05-01 19:27:23.302'
+}
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-20-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/lombok/lombok-1.18.27.jar -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java -Daether.dependencyCollector.impl=bf -jar /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/alex/.config/Code - OSS/User/globalStorage/redhat.java/1.18.0/config_linux -data /home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2023-05-01 19:27:23.361'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.concurrent\n',
+  level: 'info',
+  timestamp: '2023-05-01 19:27:23.364'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.concurrent, jdk.incubator.vector\n',
+  level: 'info',
+  timestamp: '2023-05-01 19:27:23.421'
+}
+{ level: 'error', timestamp: '2023-05-01 19:27:25.610' }
+{
+  message: "Failed to provide hover command Error: The request (id: 18, method: 'java/findLinks') has been cancelled",
+  level: 'error',
+  timestamp: '2023-05-01 19:27:32.561'
+}
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-20-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/lombok/lombok-1.18.27.jar -jar /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/alex/.config/Code - OSS/User/globalStorage/redhat.java/1.18.0/config_ss_linux -data /home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2023-05-01 19:33:24.824'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.concurrent\n',
+  level: 'info',
+  timestamp: '2023-05-01 19:33:24.933'
+}
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-20-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/lombok/lombok-1.18.27.jar -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java -Daether.dependencyCollector.impl=bf -jar /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/alex/.config/Code - OSS/User/globalStorage/redhat.java/1.18.0/config_linux -data /home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2023-05-01 19:33:25.038'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.concurrent\n',
+  level: 'info',
+  timestamp: '2023-05-01 19:33:25.136'
+}
+{ level: 'error', timestamp: '2023-05-01 19:33:28.442' }
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-20-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/lombok/lombok-1.18.27.jar -jar /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/alex/.config/Code - OSS/User/globalStorage/redhat.java/1.18.0/config_ss_linux -data /home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2023-05-01 19:33:53.447'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.concurrent, jdk.incubator.vector\n',
+  level: 'info',
+  timestamp: '2023-05-01 19:33:53.520'
+}
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-20-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/lombok/lombok-1.18.27.jar -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java -Daether.dependencyCollector.impl=bf -jar /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/alex/.config/Code - OSS/User/globalStorage/redhat.java/1.18.0/config_linux -data /home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2023-05-01 19:33:53.614'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.concurrent, jdk.incubator.vector\n',
+  level: 'info',
+  timestamp: '2023-05-01 19:33:53.713'
+}
+{ level: 'error', timestamp: '2023-05-01 19:33:58.047' }
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-20-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/lombok/lombok-1.18.27.jar -jar /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/alex/.config/Code - OSS/User/globalStorage/redhat.java/1.18.0/config_ss_linux -data /home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2023-05-01 19:34:43.835'
+}
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-20-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/lombok/lombok-1.18.27.jar -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java -Daether.dependencyCollector.impl=bf -jar /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/alex/.config/Code - OSS/User/globalStorage/redhat.java/1.18.0/config_linux -data /home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2023-05-01 19:34:43.900'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.concurrent, jdk.incubator.vector\n',
+  level: 'info',
+  timestamp: '2023-05-01 19:34:43.903'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.concurrent, jdk.incubator.vector\n',
+  level: 'info',
+  timestamp: '2023-05-01 19:34:43.947'
+}
+{ level: 'error', timestamp: '2023-05-01 19:34:47.430' }
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-20-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/lombok/lombok-1.18.27.jar -jar /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/alex/.config/Code - OSS/User/globalStorage/redhat.java/1.18.0/config_ss_linux -data /home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2023-05-01 19:36:43.385'
+}
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-20-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/lombok/lombok-1.18.27.jar -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java -Daether.dependencyCollector.impl=bf -jar /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/alex/.config/Code - OSS/User/globalStorage/redhat.java/1.18.0/config_linux -data /home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2023-05-01 19:36:43.435'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.concurrent, jdk.incubator.vector\n',
+  level: 'info',
+  timestamp: '2023-05-01 19:36:43.446'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.concurrent, jdk.incubator.vector\n',
+  level: 'info',
+  timestamp: '2023-05-01 19:36:43.483'
+}
+{ level: 'error', timestamp: '2023-05-01 19:36:45.658' }
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-20-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/lombok/lombok-1.18.27.jar -jar /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/alex/.config/Code - OSS/User/globalStorage/redhat.java/1.18.0/config_ss_linux -data /home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2023-05-01 19:37:01.896'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.concurrent\n',
+  level: 'info',
+  timestamp: '2023-05-01 19:37:01.992'
+}
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-20-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/lombok/lombok-1.18.27.jar -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java -Daether.dependencyCollector.impl=bf -jar /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/alex/.config/Code - OSS/User/globalStorage/redhat.java/1.18.0/config_linux -data /home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2023-05-01 19:37:02.121'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.concurrent, jdk.incubator.vector\n',
+  level: 'info',
+  timestamp: '2023-05-01 19:37:02.233'
+}
+{ level: 'error', timestamp: '2023-05-01 19:37:06.656' }
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-20-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/lombok/lombok-1.18.27.jar -jar /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/alex/.config/Code - OSS/User/globalStorage/redhat.java/1.18.0/config_ss_linux -data /home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2023-05-01 20:02:42.231'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.concurrent, jdk.incubator.vector\n',
+  level: 'info',
+  timestamp: '2023-05-01 20:02:42.301'
+}
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-20-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/lombok/lombok-1.18.27.jar -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java -Daether.dependencyCollector.impl=bf -jar /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/alex/.config/Code - OSS/User/globalStorage/redhat.java/1.18.0/config_linux -data /home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2023-05-01 20:02:42.332'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.concurrent\n',
+  level: 'info',
+  timestamp: '2023-05-01 20:02:42.394'
+}
+{ level: 'error', timestamp: '2023-05-01 20:02:46.388' }
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-20-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/lombok/lombok-1.18.27.jar -jar /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/alex/.config/Code - OSS/User/globalStorage/redhat.java/1.18.0/config_ss_linux -data /home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2023-05-01 20:05:57.771'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.concurrent, jdk.incubator.vector\n',
+  level: 'info',
+  timestamp: '2023-05-01 20:05:57.833'
+}
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-20-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/lombok/lombok-1.18.27.jar -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java -Daether.dependencyCollector.impl=bf -jar /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/alex/.config/Code - OSS/User/globalStorage/redhat.java/1.18.0/config_linux -data /home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2023-05-01 20:05:57.845'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.concurrent\n',
+  level: 'info',
+  timestamp: '2023-05-01 20:05:57.897'
+}
+{ level: 'error', timestamp: '2023-05-01 20:06:01.614' }
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-20-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/lombok/lombok-1.18.27.jar -jar /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/alex/.config/Code - OSS/User/globalStorage/redhat.java/1.18.0/config_ss_linux -data /home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2023-05-01 20:06:10.992'
+}
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-20-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/lombok/lombok-1.18.27.jar -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java -Daether.dependencyCollector.impl=bf -jar /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/alex/.config/Code - OSS/User/globalStorage/redhat.java/1.18.0/config_linux -data /home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2023-05-01 20:06:11.054'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.concurrent, jdk.incubator.vector\n',
+  level: 'info',
+  timestamp: '2023-05-01 20:06:11.056'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.concurrent\n',
+  level: 'info',
+  timestamp: '2023-05-01 20:06:11.104'
+}
+{ level: 'error', timestamp: '2023-05-01 20:06:13.479' }
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-20-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/lombok/lombok-1.18.27.jar -jar /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/alex/.config/Code - OSS/User/globalStorage/redhat.java/1.18.0/config_ss_linux -data /home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2023-05-01 20:12:00.852'
+}
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-20-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/lombok/lombok-1.18.27.jar -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java -Daether.dependencyCollector.impl=bf -jar /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/alex/.config/Code - OSS/User/globalStorage/redhat.java/1.18.0/config_linux -data /home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2023-05-01 20:12:00.907'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.concurrent, jdk.incubator.vector\n',
+  level: 'info',
+  timestamp: '2023-05-01 20:12:00.918'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.concurrent\n',
+  level: 'info',
+  timestamp: '2023-05-01 20:12:00.956'
+}
+{ level: 'error', timestamp: '2023-05-01 20:12:04.929' }
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-20-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/lombok/lombok-1.18.27.jar -jar /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/alex/.config/Code - OSS/User/globalStorage/redhat.java/1.18.0/config_ss_linux -data /home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2023-05-01 20:12:25.972'
+}
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-20-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/lombok/lombok-1.18.27.jar -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java -Daether.dependencyCollector.impl=bf -jar /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/alex/.config/Code - OSS/User/globalStorage/redhat.java/1.18.0/config_linux -data /home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2023-05-01 20:12:26.037'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.concurrent, jdk.incubator.vector\n',
+  level: 'info',
+  timestamp: '2023-05-01 20:12:26.039'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.concurrent\n',
+  level: 'info',
+  timestamp: '2023-05-01 20:12:26.088'
+}
+{ level: 'error', timestamp: '2023-05-01 20:12:28.773' }
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-20-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/lombok/lombok-1.18.27.jar -jar /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/alex/.config/Code - OSS/User/globalStorage/redhat.java/1.18.0/config_ss_linux -data /home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2023-05-01 20:13:18.759'
+}
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-20-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/lombok/lombok-1.18.27.jar -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java -Daether.dependencyCollector.impl=bf -jar /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/alex/.config/Code - OSS/User/globalStorage/redhat.java/1.18.0/config_linux -data /home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2023-05-01 20:13:18.827'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.concurrent, jdk.incubator.vector\n',
+  level: 'info',
+  timestamp: '2023-05-01 20:13:18.829'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.concurrent\n',
+  level: 'info',
+  timestamp: '2023-05-01 20:13:18.881'
+}
+{ level: 'error', timestamp: '2023-05-01 20:13:22.309' }
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-20-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/lombok/lombok-1.18.27.jar -jar /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/alex/.config/Code - OSS/User/globalStorage/redhat.java/1.18.0/config_ss_linux -data /home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2023-05-01 20:14:31.685'
+}
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-20-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/lombok/lombok-1.18.27.jar -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java -Daether.dependencyCollector.impl=bf -jar /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/alex/.config/Code - OSS/User/globalStorage/redhat.java/1.18.0/config_linux -data /home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2023-05-01 20:14:31.745'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.concurrent\n',
+  level: 'info',
+  timestamp: '2023-05-01 20:14:31.759'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.concurrent, jdk.incubator.vector\n',
+  level: 'info',
+  timestamp: '2023-05-01 20:14:31.800'
+}
+{ level: 'error', timestamp: '2023-05-01 20:14:34.456' }
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-20-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/lombok/lombok-1.18.27.jar -jar /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/alex/.config/Code - OSS/User/globalStorage/redhat.java/1.18.0/config_ss_linux -data /home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2023-05-01 20:15:04.072'
+}
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-20-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/lombok/lombok-1.18.27.jar -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java -Daether.dependencyCollector.impl=bf -jar /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/alex/.config/Code - OSS/User/globalStorage/redhat.java/1.18.0/config_linux -data /home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2023-05-01 20:15:04.132'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.concurrent, jdk.incubator.vector\n',
+  level: 'info',
+  timestamp: '2023-05-01 20:15:04.145'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.concurrent\n',
+  level: 'info',
+  timestamp: '2023-05-01 20:15:04.188'
+}
+{ level: 'error', timestamp: '2023-05-01 20:15:07.204' }
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-20-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/lombok/lombok-1.18.27.jar -jar /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/alex/.config/Code - OSS/User/globalStorage/redhat.java/1.18.0/config_ss_linux -data /home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2023-05-01 20:15:15.217'
+}
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-20-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/lombok/lombok-1.18.27.jar -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java -Daether.dependencyCollector.impl=bf -jar /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/alex/.config/Code - OSS/User/globalStorage/redhat.java/1.18.0/config_linux -data /home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2023-05-01 20:15:15.274'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.concurrent\n',
+  level: 'info',
+  timestamp: '2023-05-01 20:15:15.278'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.concurrent\n',
+  level: 'info',
+  timestamp: '2023-05-01 20:15:15.329'
+}
+{ level: 'error', timestamp: '2023-05-01 20:15:18.077' }
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-20-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/lombok/lombok-1.18.27.jar -jar /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/alex/.config/Code - OSS/User/globalStorage/redhat.java/1.18.0/config_ss_linux -data /home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2023-05-01 20:16:23.375'
+}
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-20-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/lombok/lombok-1.18.27.jar -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java -Daether.dependencyCollector.impl=bf -jar /home/alex/.vscode-oss/extensions/redhat.java-1.18.0-universal/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/alex/.config/Code - OSS/User/globalStorage/redhat.java/1.18.0/config_linux -data /home/alex/.config/Code - OSS/User/workspaceStorage/e2a37d265e6824b32f0f04769131a26f/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2023-05-01 20:16:23.460'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.concurrent\n',
+  level: 'info',
+  timestamp: '2023-05-01 20:16:23.465'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.concurrent, jdk.incubator.vector\n',
+  level: 'info',
+  timestamp: '2023-05-01 20:16:23.515'
+}
+{ level: 'error', timestamp: '2023-05-01 20:16:27.428' }

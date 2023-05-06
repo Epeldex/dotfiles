@@ -1,0 +1,26 @@
+2023-05-05 21:46:38.752 [info] Log level: Info
+2023-05-05 21:46:38.752 [info] Validating found git in: "git"
+2023-05-05 21:46:38.752 [info] Using git "2.40.1" from "git"
+2023-05-05 21:46:38.753 [info] > git rev-parse --show-toplevel [25ms]
+2023-05-05 21:46:38.753 [info] > git rev-parse --git-dir --git-common-dir [29ms]
+2023-05-05 21:46:38.753 [info] Open repository: /home/alex/DAM/RetoFinal/PokeCatch
+2023-05-05 21:46:38.767 [info] > git rev-parse --show-toplevel [16ms]
+2023-05-05 21:46:38.779 [info] > git rev-parse --show-toplevel [4ms]
+2023-05-05 21:46:38.791 [info] > git config --get commit.template [27ms]
+2023-05-05 21:46:38.796 [info] > git rev-parse --show-toplevel [9ms]
+2023-05-05 21:46:38.819 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dev_trainer refs/remotes/dev_trainer [7ms]
+2023-05-05 21:46:38.828 [info] > git rev-parse --show-toplevel [24ms]
+2023-05-05 21:46:38.838 [info] > git status -z -uall [10ms]
+2023-05-05 21:46:38.864 [info] > git rev-parse --show-toplevel [29ms]
+2023-05-05 21:46:38.866 [info] > git config --get commit.template [2ms]
+2023-05-05 21:46:38.875 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dev_trainer refs/remotes/dev_trainer [3ms]
+2023-05-05 21:46:38.882 [info] > git status -z -uall [1ms]
+2023-05-05 21:46:39.233 [info] > git show --textconv :src/view/ProfessorView.java [12ms]
+2023-05-05 21:46:39.234 [info] > git ls-files --stage -- /home/alex/DAM/RetoFinal/PokeCatch/src/view/ProfessorView.java [2ms]
+2023-05-05 21:46:39.246 [info] > git cat-file -s da4fd3a0d608ccf68f81665d29ca99dc92cb7cd0 [3ms]
+2023-05-05 21:46:39.306 [info] > git check-ignore -v -z --stdin [3ms]
+2023-05-05 21:49:05.360 [info] > git config --get commit.template [13ms]
+2023-05-05 21:49:05.361 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dev_trainer refs/remotes/dev_trainer [3ms]
+2023-05-05 21:49:05.374 [info] > git status -z -uall [4ms]
+2023-05-05 22:12:20.169 [info] > git rev-parse --show-toplevel [4ms]
+2023-05-05 22:12:20.169 [info] fatal: not a git repository (or any of the parent directories): .git

@@ -1,0 +1,22 @@
+2023-05-05 19:34:05.230 [info] Log level: Info
+2023-05-05 19:34:05.230 [info] Validating found git in: "git"
+2023-05-05 19:34:05.230 [info] Using git "2.40.1" from "git"
+2023-05-05 19:34:05.230 [info] > git rev-parse --show-toplevel [18ms]
+2023-05-05 19:34:05.239 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-05-05 19:34:05.247 [info] Open repository: /home/alex/DAM/RetoFinal/PokeCatch
+2023-05-05 19:34:05.291 [info] > git rev-parse --show-toplevel [35ms]
+2023-05-05 19:34:05.301 [info] > git config --get commit.template [37ms]
+2023-05-05 19:34:05.302 [info] > git rev-parse --show-toplevel [4ms]
+2023-05-05 19:34:05.323 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dev_trainer refs/remotes/dev_trainer [6ms]
+2023-05-05 19:34:05.332 [info] > git rev-parse --show-toplevel [22ms]
+2023-05-05 19:34:05.341 [info] > git status -z -uall [10ms]
+2023-05-05 19:34:05.372 [info] > git rev-parse --show-toplevel [33ms]
+2023-05-05 19:34:05.380 [info] > git config --get commit.template [9ms]
+2023-05-05 19:34:05.383 [info] > git rev-parse --show-toplevel [5ms]
+2023-05-05 19:34:05.395 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dev_trainer refs/remotes/dev_trainer [3ms]
+2023-05-05 19:34:05.405 [info] > git status -z -uall [2ms]
+2023-05-05 19:34:05.738 [info] > git show --textconv :src/view/ProfessorView.java [8ms]
+2023-05-05 19:34:05.738 [info] > git ls-files --stage -- /home/alex/DAM/RetoFinal/PokeCatch/src/view/ProfessorView.java [1ms]
+2023-05-05 19:34:05.745 [info] > git cat-file -s da4fd3a0d608ccf68f81665d29ca99dc92cb7cd0 [1ms]
+2023-05-05 19:34:05.795 [info] > git check-ignore -v -z --stdin [2ms]
+2023-05-05 19:39:40.102 [info] > git check-ignore -v -z --stdin [1ms]
